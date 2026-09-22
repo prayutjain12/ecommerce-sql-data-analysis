@@ -1,0 +1,13 @@
+Employee_ID,Employee_Name,Manager_ID,Department
+1,Raj Mehta,,Management
+2,Aman Sharma,1.0,Sales
+3,Priya Gupta,1.0,Sales
+4,Karan Singh,2.0,Sales
+5,Neha Jain,2.0,Marketing
+6,Rohan Verma,3.0,Marketing
+7,Simran Shah,1.0,Finance
+8,Vikas Patel,7.0,Finance
+9,Anjali Joshi,1.0,Operations
+10,Nikhil Agarwal,9.0,Operations
+11,Pooja Bansal,1.0,IT
+12,Arjun Kapoor,11.0,IT

@@ -1,0 +1,61 @@
+Product_ID,Product_Name,Category,Price
+1001,Pro Laptop,Electronics,58323.17
+1002,Standard Smartphone,Electronics,20805.41
+1003,Standard Monitor,Electronics,19839.12
+1004,Standard Tablet,Electronics,20837.66
+1005,Standard Headphones,Electronics,4966.96
+1006,Standard Keyboard,Accessories,2599.47
+1007,Standard Mouse,Accessories,3195.83
+1008,Standard Webcam,Accessories,3937.51
+1009,Pro Office Chair,Furniture,20536.09
+1010,Pro Study Table,Furniture,14618.21
+1011,Pro Bookshelf,Furniture,11263.8
+1012,Basic Notebook,Stationery,390.94
+1013,Standard Pen Set,Stationery,498.28
+1014,Standard Printer,Office Equipment,18785.33
+1015,Pro External SSD,Storage,8390.1
+1016,Standard USB Drive,Storage,2337.23
+1017,Basic Router,Networking,6802.55
+1018,Basic Power Bank,Accessories,3998.59
+1019,Pro Backpack,Bags,3726.15
+1020,Basic Office Desk,Furniture,9187.2
+1021,Standard Laptop,Electronics,49224.66
+1022,Pro Smartphone,Electronics,70964.21
+1023,Pro Monitor,Electronics,33930.89
+1024,Basic Tablet,Electronics,42433.6
+1025,Standard Headphones,Electronics,9587.13
+1026,Standard Keyboard,Accessories,5311.67
+1027,Pro Mouse,Accessories,1401.54
+1028,Pro Webcam,Accessories,6048.55
+1029,Basic Office Chair,Furniture,15282.9
+1030,Basic Study Table,Furniture,8425.83
+1031,Basic Bookshelf,Furniture,11800.24
+1032,Standard Notebook,Stationery,241.73
+1033,Pro Pen Set,Stationery,477.24
+1034,Standard Printer,Office Equipment,25181.87
+1035,Standard External SSD,Storage,12594.51
+1036,Standard USB Drive,Storage,2828.09
+1037,Pro Router,Networking,2643.15
+1038,Basic Power Bank,Accessories,1215.75
+1039,Standard Backpack,Bags,2825.6
+1040,Standard Office Desk,Furniture,24809.39
+1041,Basic Laptop,Electronics,61681.89
+1042,Pro Smartphone,Electronics,68597.09
+1043,Pro Monitor,Electronics,16033.91
+1044,Pro Tablet,Electronics,25839.3
+1045,Standard Headphones,Electronics,2649.49
+1046,Basic Keyboard,Accessories,1557.14
+1047,Basic Mouse,Accessories,2167.3
+1048,Pro Webcam,Accessories,4559.9
+1049,Basic Office Chair,Furniture,14177.38
+1050,Pro Study Table,Furniture,23722.8
+1051,Standard Bookshelf,Furniture,10450.86
+1052,Pro Notebook,Stationery,206.78
+1053,Standard Pen Set,Stationery,453.24
+1054,Pro Printer,Office Equipment,28828.67
+1055,Standard External SSD,Storage,15982.2
+1056,Basic USB Drive,Storage,2092.68
+1057,Basic Router,Networking,6035.46
+1058,Basic Power Bank,Accessories,3369.95
+1059,Standard Backpack,Bags,2989.86
+1060,Basic Office Desk,Furniture,25984.19

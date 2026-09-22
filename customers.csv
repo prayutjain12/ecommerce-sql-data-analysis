@@ -1,0 +1,151 @@
+Customer_ID,Customer_Name,City,State,Region
+1,Vivaan Saxena,Kochi,Kerala,South
+2,Aman Agarwal,Guwahati,Assam,East
+3,Vivaan Bansal,Amritsar,Punjab,North
+4,Vivaan Patel,Ranchi,Jharkhand,East
+5,Isha Saxena,Coimbatore,Tamil Nadu,South
+6,Sneha Patel,Lucknow,Uttar Pradesh,North
+7,Pooja Agarwal,Bengaluru,Karnataka,South
+8,Vikas Gupta,Patna,Bihar,East
+9,Sneha Joshi,Surat,Gujarat,West
+10,Pooja Khan,Surat,Gujarat,West
+11,Nikhil Mehta,Delhi,Delhi,North
+12,Priya Kapoor,Delhi,Delhi,North
+13,Riya Malhotra,Mumbai,Maharashtra,West
+14,Neha Gupta,Kolkata,West Bengal,East
+15,Isha Jain,Delhi,Delhi,North
+16,Simran Agarwal,Guwahati,Assam,East
+17,Kavya Saxena,Kolkata,West Bengal,East
+18,Arjun Jain,Indore,Madhya Pradesh,West
+19,Nikhil Sharma,Bengaluru,Karnataka,South
+20,Arjun Saxena,Kochi,Kerala,South
+21,Meera Saxena,Ahmedabad,Gujarat,West
+22,Rahul Kapoor,Ahmedabad,Gujarat,West
+23,Sneha Gupta,Indore,Madhya Pradesh,West
+24,Aditya Bansal,Indore,Madhya Pradesh,West
+25,Rahul Mehta,Hyderabad,Telangana,South
+26,Kavya Shah,Surat,Gujarat,West
+27,Arjun Malhotra,Chennai,Tamil Nadu,South
+28,Isha Verma,Pune,Maharashtra,West
+29,Sneha Malhotra,Surat,Gujarat,West
+30,Pooja Malhotra,Ahmedabad,Gujarat,West
+31,Riya Singh,Amritsar,Punjab,North
+32,Kavya Joshi,Lucknow,Uttar Pradesh,North
+33,Pooja Gupta,Bhubaneswar,Odisha,East
+34,Aarav Saxena,Kolkata,West Bengal,East
+35,Nikhil Bansal,Mumbai,Maharashtra,West
+36,Sneha Khan,Indore,Madhya Pradesh,West
+37,Ananya Khan,Jaipur,Rajasthan,North
+38,Aditya Mehta,Lucknow,Uttar Pradesh,North
+39,Aman Bansal,Kochi,Kerala,South
+40,Nikhil Malhotra,Hyderabad,Telangana,South
+41,Priya Joshi,Hyderabad,Telangana,South
+42,Priya Verma,Hyderabad,Telangana,South
+43,Sneha Singh,Chennai,Tamil Nadu,South
+44,Aarav Jain,Surat,Gujarat,West
+45,Simran Mehta,Mumbai,Maharashtra,West
+46,Aman Shah,Guwahati,Assam,East
+47,Aarav Mehta,Bhubaneswar,Odisha,East
+48,Vivaan Malhotra,Mumbai,Maharashtra,West
+49,Meera Singh,Surat,Gujarat,West
+50,Kavya Verma,Hyderabad,Telangana,South
+51,Ananya Saxena,Ranchi,Jharkhand,East
+52,Kavya Agarwal,Surat,Gujarat,West
+53,Aman Malhotra,Pune,Maharashtra,West
+54,Aarav Verma,Delhi,Delhi,North
+55,Sneha Bansal,Kochi,Kerala,South
+56,Arjun Kapoor,Bengaluru,Karnataka,South
+57,Meera Gupta,Indore,Madhya Pradesh,West
+58,Kavya Patel,Surat,Gujarat,West
+59,Rohan Singh,Kochi,Kerala,South
+60,Neha Joshi,Ahmedabad,Gujarat,West
+61,Simran Verma,Pune,Maharashtra,West
+62,Aditya Jain,Ranchi,Jharkhand,East
+63,Vikas Kapoor,Indore,Madhya Pradesh,West
+64,Karan Saxena,Ranchi,Jharkhand,East
+65,Karan Bansal,Kolkata,West Bengal,East
+66,Aman Saxena,Mumbai,Maharashtra,West
+67,Vivaan Verma,Surat,Gujarat,West
+68,Meera Verma,Indore,Madhya Pradesh,West
+69,Isha Mehta,Coimbatore,Tamil Nadu,South
+70,Rahul Malhotra,Hyderabad,Telangana,South
+71,Ananya Gupta,Indore,Madhya Pradesh,West
+72,Riya Sharma,Kolkata,West Bengal,East
+73,Rahul Joshi,Lucknow,Uttar Pradesh,North
+74,Aarav Gupta,Indore,Madhya Pradesh,West
+75,Arjun Singh,Kochi,Kerala,South
+76,Aditya Gupta,Hyderabad,Telangana,South
+77,Karan Kapoor,Ranchi,Jharkhand,East
+78,Priya Agarwal,Pune,Maharashtra,West
+79,Neha Khan,Mumbai,Maharashtra,West
+80,Nikhil Patel,Kolkata,West Bengal,East
+81,Karan Patel,Kochi,Kerala,South
+82,Nikhil Agarwal,Patna,Bihar,East
+83,Arjun Khan,Bengaluru,Karnataka,South
+84,Karan Shah,Pune,Maharashtra,West
+85,Ananya Patel,Bhubaneswar,Odisha,East
+86,Aman Singh,Jaipur,Rajasthan,North
+87,Vikas Malhotra,Jaipur,Rajasthan,North
+88,Riya Khan,Lucknow,Uttar Pradesh,North
+89,Rahul Khan,Pune,Maharashtra,West
+90,Aditya Joshi,Kochi,Kerala,South
+91,Aditya Singh,Amritsar,Punjab,North
+92,Kavya Bansal,Coimbatore,Tamil Nadu,South
+93,Rahul Verma,Chennai,Tamil Nadu,South
+94,Meera Shah,Amritsar,Punjab,North
+95,Rohan Sharma,Lucknow,Uttar Pradesh,North
+96,Priya Khan,Ahmedabad,Gujarat,West
+97,Simran Singh,Amritsar,Punjab,North
+98,Simran Joshi,Mumbai,Maharashtra,West
+99,Neha Patel,Patna,Bihar,East
+100,Arjun Patel,Jaipur,Rajasthan,North
+101,Karan Agarwal,Ranchi,Jharkhand,East
+102,Simran Gupta,Guwahati,Assam,East
+103,Pooja Kapoor,Amritsar,Punjab,North
+104,Riya Verma,Bengaluru,Karnataka,South
+105,Nikhil Singh,Jaipur,Rajasthan,North
+106,Sneha Jain,Kochi,Kerala,South
+107,Aman Jain,Guwahati,Assam,East
+108,Karan Sharma,Patna,Bihar,East
+109,Meera Mehta,Jaipur,Rajasthan,North
+110,Aditya Verma,Bhubaneswar,Odisha,East
+111,Riya Gupta,Coimbatore,Tamil Nadu,South
+112,Priya Bansal,Guwahati,Assam,East
+113,Karan Singh,Ranchi,Jharkhand,East
+114,Simran Patel,Bengaluru,Karnataka,South
+115,Aman Gupta,Patna,Bihar,East
+116,Aditya Sharma,Kochi,Kerala,South
+117,Meera Bansal,Kolkata,West Bengal,East
+118,Pooja Sharma,Coimbatore,Tamil Nadu,South
+119,Pooja Verma,Surat,Gujarat,West
+120,Aditya Khan,Patna,Bihar,East
+121,Vivaan Jain,Ranchi,Jharkhand,East
+122,Kavya Singh,Ranchi,Jharkhand,East
+123,Ananya Singh,Ranchi,Jharkhand,East
+124,Meera Patel,Jaipur,Rajasthan,North
+125,Isha Gupta,Coimbatore,Tamil Nadu,South
+126,Aman Sharma,Ranchi,Jharkhand,East
+127,Isha Malhotra,Surat,Gujarat,West
+128,Nikhil Joshi,Kolkata,West Bengal,East
+129,Karan Malhotra,Mumbai,Maharashtra,West
+130,Sneha Agarwal,Amritsar,Punjab,North
+131,Rahul Patel,Kolkata,West Bengal,East
+132,Neha Kapoor,Guwahati,Assam,East
+133,Meera Agarwal,Lucknow,Uttar Pradesh,North
+134,Rohan Shah,Coimbatore,Tamil Nadu,South
+135,Nikhil Khan,Ahmedabad,Gujarat,West
+136,Pooja Singh,Pune,Maharashtra,West
+137,Meera Kapoor,Hyderabad,Telangana,South
+138,Arjun Gupta,Mumbai,Maharashtra,West
+139,Priya Gupta,Indore,Madhya Pradesh,West
+140,Aarav Bansal,Delhi,Delhi,North
+141,Aman Khan,Bengaluru,Karnataka,South
+142,Kavya Malhotra,Ahmedabad,Gujarat,West
+143,Isha Kapoor,Kolkata,West Bengal,East
+144,Aarav Patel,Chandigarh,Chandigarh,North
+145,Riya Mehta,Amritsar,Punjab,North
+146,Rohan Joshi,Hyderabad,Telangana,South
+147,Aman Kapoor,Kochi,Kerala,South
+148,Sneha Saxena,Lucknow,Uttar Pradesh,North
+149,Simran Malhotra,Bhubaneswar,Odisha,East
+150,Nikhil Saxena,Ahmedabad,Gujarat,West

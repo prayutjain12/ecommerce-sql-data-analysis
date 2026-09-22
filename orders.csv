@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Product_ID,Order_Date,Quantity,Discount,Unit_Price,Sales,Profit,Payment_Mode,Sales_Channel,Ship_Mode,Category
+50001,65,1029,2025-02-13,5,0.05,15282.9,72593.77,12221.31,UPI,Mobile App,Standard,Furniture
+50002,45,1013,2026-07-25,1,0.0,498.28,498.28,134.49,Debit Card,Website,Express,Stationery
+50003,146,1059,2026-06-27,3,0.05,2989.86,8521.1,1406.83,Credit Card,Website,Express,Bags
+50004,69,1012,2025-12-20,1,0.0,390.94,390.94,133.61,Credit Card,Website,Standard,Stationery
+50005,48,1029,2026-03-18,1,0.05,15282.9,14518.76,1474.99,Cash on Delivery,Marketplace,Standard,Furniture
+50006,67,1032,2025-09-05,1,0.05,241.73,229.64,56.72,UPI,Marketplace,Standard,Stationery
+50007,2,1004,2026-05-09,5,0.05,20837.66,98978.88,11488.33,Cash on Delivery,Mobile App,Express,Electronics
+50008,46,1029,2025-10-05,2,0.05,15282.9,29037.51,4354.99,Credit Card,Website,Express,Furniture
+50009,78,1028,2026-09-09,4,0.0,6048.55,24194.2,4727.08,Debit Card,Mobile App,Standard,Accessories
+50010,138,1016,2025-02-09,1,0.15,2337.23,1986.65,369.36,Cash on Delivery,Marketplace,Express,Storage
+50011,111,1008,2025-04-18,1,0.1,3937.51,3543.76,896.45,UPI,Marketplace,Standard,Accessories
+50012,118,1003,2026-08-27,4,0.15,19839.12,67453.01,9897.72,Cash on Delivery,Mobile App,Express,Electronics
+50013,82,1001,2025-06-29,1,0.05,58323.17,55407.01,7116.79,Credit Card,Marketplace,Standard,Electronics
+50014,17,1029,2025-07-13,1,0.2,15282.9,12226.32,1673.43,Debit Card,Mobile App,Standard,Furniture
+50015,59,1006,2026-05-08,2,0.05,2599.47,4938.99,1539.45,UPI,Mobile App,Standard,Accessories
+50016,150,1058,2025-04-28,2,0.15,3369.95,5728.92,1225.79,Credit Card,Marketplace,Standard,Accessories
+50017,7,1015,2025-11-16,1,0.0,8390.1,8390.1,1549.01,Debit Card,Mobile App,Same Day,Storage
+50018,132,1040,2025-06-28,2,0.0,24809.39,49618.78,5662.95,Credit Card,Mobile App,Standard,Furniture
+50019,103,1041,2025-05-04,3,0.05,61681.89,175793.39,29441.58,UPI,Website,Express,Electronics
+50020,43,1030,2026-08-24,2,0.05,8425.83,16009.08,-1276.95,UPI,Mobile App,Express,Furniture
+50021,117,1054,2025-05-05,2,0.1,28828.67,51891.61,6820.0,Cash on Delivery,Mobile App,Express,Office Equipment
+50022,126,1007,2025-02-28,1,0.0,3195.83,3195.83,422.98,UPI,Mobile App,Same Day,Accessories
+50023,7,1015,2026-02-24,2,0.15,8390.1,14263.17,1898.7,Debit Card,Mobile App,Standard,Storage
+50024,16,1016,2026-06-25,4,0.0,2337.23,9348.92,1491.11,Cash on Delivery,Website,Standard,Storage
+50025,100,1009,2025-03-21,3,0.05,20536.09,58527.86,6358.84,UPI,Marketplace,Standard,Furniture
+50026,150,1018,2026-03-17,5,0.2,3998.59,15994.36,4443.87,UPI,Website,Standard,Accessories
+50027,4,1019,2025-12-03,1,0.05,3726.15,3539.84,751.88,Debit Card,Store,Express,Bags
+50028,100,1046,2026-06-02,1,0.1,1557.14,1401.43,224.04,UPI,Website,Standard,Accessories
+50029,21,1019,2025-03-21,2,0.2,3726.15,5961.84,951.33,Debit Card,Mobile App,Standard,Bags
+50030,98,1053,2026-08-31,1,0.2,453.24,362.59,113.34,Debit Card,Mobile App,Standard,Stationery
+50031,94,1047,2026-01-21,2,0.05,2167.3,4117.87,1027.7,Debit Card,Marketplace,Standard,Accessories
+50032,14,1055,2026-06-09,5,0.05,15982.2,75915.45,13749.41,Credit Card,Website,Express,Storage
+50033,103,1007,2025-08-14,1,0.0,3195.83,3195.83,576.94,Debit Card,Store,Standard,Accessories
+50034,135,1060,2026-08-11,2,0.05,25984.19,49369.96,6774.71,Debit Card,Mobile App,Express,Furniture
+50035,130,1037,2026-01-26,3,0.2,2643.15,6343.56,842.74,UPI,Mobile App,Express,Networking
+50036,5,1059,2025-03-21,1,0.05,2989.86,2840.37,586.22,Credit Card,Mobile App,Express,Bags
+50037,37,1022,2026-07-29,5,0.0,70964.21,354821.05,69189.41,Cash on Delivery,Website,Standard,Electronics
+50038,37,1058,2026-05-11,1,0.0,3369.95,3369.95,704.44,Debit Card,Mobile App,Express,Accessories
+50039,68,1036,2025-07-07,4,0.05,2828.09,10746.74,1604.34,Credit Card,Website,Standard,Storage
+50040,22,1005,2025-12-06,3,0.0,4966.96,14900.88,2112.0,UPI,Website,Standard,Electronics
+50041,129,1025,2025-08-30,1,0.2,9587.13,7669.7,893.96,UPI,Mobile App,Express,Electronics
+50042,117,1009,2025-12-05,3,0.05,20536.09,58527.86,4463.47,UPI,Mobile App,Express,Furniture
+50043,122,1057,2026-08-25,1,0.0,6035.46,6035.46,1184.27,UPI,Website,Standard,Networking
+50044,30,1019,2026-07-15,2,0.0,3726.15,7452.3,1764.15,Cash on Delivery,Website,Express,Bags
+50045,3,1014,2025-05-15,5,0.15,18785.33,79837.65,-2032.22,UPI,Website,Standard,Office Equipment
+50046,137,1034,2026-08-29,5,0.2,25181.87,100727.48,12931.51,Net Banking,Website,Standard,Office Equipment
+50047,44,1026,2025-09-30,4,0.15,5311.67,18059.68,2847.85,UPI,Mobile App,Same Day,Accessories
+50048,99,1006,2026-03-16,2,0.0,2599.47,5198.94,1005.49,UPI,Website,Standard,Accessories
+50049,137,1049,2026-04-22,2,0.0,14177.38,28354.76,2733.13,Credit Card,Marketplace,Express,Furniture
+50050,6,1051,2025-10-28,1,0.0,10450.86,10450.86,893.89,UPI,Website,Standard,Furniture
+50051,1,1045,2025-10-12,5,0.15,2649.49,11260.33,2073.21,Net Banking,Website,Express,Electronics
+50052,1,1038,2025-10-12,2,0.15,1215.75,2066.78,455.78,Cash on Delivery,Marketplace,Express,Accessories
+50053,24,1025,2026-06-22,4,0.15,9587.13,32596.24,4771.13,Cash on Delivery,Website,Express,Electronics
+50054,8,1033,2025-08-29,1,0.0,477.24,477.24,136.8,UPI,Mobile App,Standard,Stationery
+50055,123,1032,2025-06-24,3,0.0,241.73,725.19,203.57,Net Banking,Store,Express,Stationery
+50056,91,1010,2025-08-14,1,0.2,14618.21,11694.57,1169.49,UPI,Store,Standard,Furniture
+50057,148,1005,2025-05-02,3,0.2,4966.96,11920.7,1642.61,Cash on Delivery,Marketplace,Same Day,Electronics
+50058,121,1016,2025-09-01,1,0.1,2337.23,2103.51,356.22,Credit Card,Website,Standard,Storage
+50059,145,1028,2025-03-13,1,0.0,6048.55,6048.55,1326.4,UPI,Mobile App,Standard,Accessories
+50060,36,1010,2025-02-25,1,0.0,14618.21,14618.21,1728.88,UPI,Store,Express,Furniture
+50061,44,1007,2026-03-27,2,0.0,3195.83,6391.66,1170.72,UPI,Store,Standard,Accessories
+50062,128,1052,2025-02-18,3,0.1,206.78,558.31,94.81,UPI,Website,Standard,Stationery
+50063,37,1023,2025-12-20,1,0.15,33930.89,28841.26,3869.99,Cash on Delivery,Mobile App,Express,Electronics
+50064,9,1036,2026-05-01,1,0.1,2828.09,2545.28,437.56,Net Banking,Website,Standard,Storage
+50065,101,1032,2026-03-28,1,0.0,241.73,241.73,33.89,Cash on Delivery,Website,Standard,Stationery
+50066,121,1045,2025-10-05,2,0.15,2649.49,4504.13,650.93,UPI,Marketplace,Standard,Electronics
+50067,146,1045,2025-05-01,2,0.0,2649.49,5298.98,-617.64,Debit Card,Website,Standard,Electronics
+50068,140,1018,2026-08-03,3,0.15,3998.59,10196.4,3173.61,UPI,Website,Standard,Accessories
+50069,19,1051,2026-06-05,1,0.2,10450.86,8360.69,840.53,Credit Card,Website,Standard,Furniture
+50070,116,1023,2026-01-17,2,0.1,33930.89,61075.6,6998.83,UPI,Mobile App,Standard,Electronics
+50071,127,1051,2025-02-24,3,0.2,10450.86,25082.06,2085.62,UPI,Website,Standard,Furniture
+50072,105,1025,2025-01-22,4,0.05,9587.13,36431.09,4953.43,Debit Card,Mobile App,Standard,Electronics
+50073,123,1007,2025-07-16,2,0.05,3195.83,6072.08,1268.47,UPI,Website,Express,Accessories
+50074,126,1046,2025-04-09,4,0.0,1557.14,6228.56,1023.37,Credit Card,Store,Express,Accessories
+50075,67,1002,2026-06-21,1,0.2,20805.41,16644.33,2080.49,Debit Card,Website,Standard,Electronics
+50076,7,1047,2025-05-09,3,0.1,2167.3,5851.71,660.88,UPI,Mobile App,Standard,Accessories
+50077,69,1003,2025-06-26,1,0.0,19839.12,19839.12,3104.71,Cash on Delivery,Website,Express,Electronics
+50078,31,1013,2026-08-31,1,0.2,498.28,398.62,79.45,Credit Card,Website,Standard,Stationery
+50079,18,1037,2026-05-25,4,0.0,2643.15,10572.6,1783.64,Net Banking,Website,Standard,Networking
+50080,19,1057,2025-05-17,2,0.05,6035.46,11467.37,1337.57,Debit Card,Website,Standard,Networking
+50081,105,1025,2025-08-27,2,0.0,9587.13,19174.26,2173.3,Debit Card,Website,Standard,Electronics
+50082,76,1008,2025-11-18,2,0.1,3937.51,7087.52,1330.31,Debit Card,Mobile App,Express,Accessories
+50083,81,1014,2026-02-18,3,0.05,18785.33,53538.19,7476.73,Cash on Delivery,Mobile App,Express,Office Equipment
+50084,112,1054,2026-08-07,1,0.05,28828.67,27387.24,4238.88,Debit Card,Website,Express,Office Equipment
+50085,83,1044,2026-06-27,1,0.1,25839.3,23255.37,3980.33,UPI,Mobile App,Standard,Electronics
+50086,95,1007,2026-09-01,1,0.15,3195.83,2716.46,630.87,UPI,Mobile App,Standard,Accessories
+50087,13,1024,2025-01-26,4,0.05,42433.6,161247.68,25399.4,Debit Card,Website,Standard,Electronics
+50088,128,1016,2025-05-28,1,0.2,2337.23,1869.78,443.63,UPI,Website,Standard,Storage
+50089,68,1011,2025-12-17,2,0.05,11263.8,21401.22,2649.19,UPI,Website,Standard,Furniture
+50090,24,1051,2025-01-31,2,0.0,10450.86,20901.72,2280.62,UPI,Website,Express,Furniture
+50091,122,1038,2025-08-10,1,0.0,1215.75,1215.75,297.13,Credit Card,Mobile App,Standard,Accessories
+50092,111,1011,2025-04-06,2,0.0,11263.8,22527.6,3063.01,UPI,Store,Express,Furniture
+50093,8,1040,2026-08-05,1,0.1,24809.39,22328.45,2806.58,Debit Card,Store,Standard,Furniture
+50094,29,1025,2025-02-09,1,0.05,9587.13,9107.77,805.11,Net Banking,Store,Standard,Electronics
+50095,3,1004,2025-04-03,1,0.0,20837.66,20837.66,2207.42,Net Banking,Mobile App,Express,Electronics
+50096,41,1027,2025-05-02,4,0.05,1401.54,5325.85,1000.76,UPI,Website,Express,Accessories
+50097,15,1012,2025-04-03,2,0.15,390.94,664.6,186.86,Credit Card,Website,Standard,Stationery
+50098,107,1015,2025-12-21,5,0.05,8390.1,39852.98,7139.85,Credit Card,Website,Standard,Storage
+50099,79,1053,2025-08-15,2,0.0,453.24,906.48,271.97,Credit Card,Website,Standard,Stationery
+50100,148,1043,2026-07-23,1,0.0,16033.91,16033.91,2687.54,Debit Card,Website,Standard,Electronics
+50101,113,1009,2025-06-12,2,0.05,20536.09,39018.57,5424.36,UPI,Mobile App,Standard,Furniture
+50102,92,1052,2025-12-01,5,0.05,206.78,982.2,298.25,Cash on Delivery,Website,Standard,Stationery
+50103,77,1035,2026-02-16,2,0.15,12594.51,21410.67,2974.69,UPI,Website,Standard,Storage
+50104,9,1053,2026-01-25,1,0.05,453.24,430.58,114.31,Net Banking,Marketplace,Standard,Stationery
+50105,11,1045,2026-05-12,1,0.15,2649.49,2252.07,253.64,Debit Card,Website,Express,Electronics
+50106,93,1021,2025-05-06,5,0.05,49224.66,233817.14,19368.64,UPI,Marketplace,Express,Electronics
+50107,1,1033,2025-11-13,2,0.0,477.24,954.48,214.59,Net Banking,Website,Standard,Stationery
+50108,7,1032,2026-05-14,5,0.1,241.73,1087.78,337.15,UPI,Mobile App,Standard,Stationery
+50109,33,1044,2026-06-22,2,0.05,25839.3,49094.67,7029.24,Net Banking,Website,Standard,Electronics
+50110,133,1015,2026-01-20,1,0.1,8390.1,7551.09,1962.57,Debit Card,Mobile App,Express,Storage
+50111,69,1020,2026-02-11,4,0.0,9187.2,36748.8,4199.98,UPI,Website,Express,Furniture
+50112,107,1015,2026-06-23,4,0.1,8390.1,30204.36,8364.58,UPI,Website,Express,Storage
+50113,62,1018,2026-01-25,3,0.0,3998.59,11995.77,2492.85,Net Banking,Mobile App,Standard,Accessories
+50114,26,1010,2026-08-15,5,0.15,14618.21,62127.39,6867.81,UPI,Website,Standard,Furniture
+50115,56,1003,2025-03-21,1,0.15,19839.12,16863.25,1575.19,Cash on Delivery,Website,Standard,Electronics
+50116,14,1057,2025-08-05,5,0.05,6035.46,28668.44,6064.38,Net Banking,Store,Standard,Networking
+50117,116,1005,2025-03-11,1,0.2,4966.96,3973.57,459.5,Debit Card,Website,Express,Electronics
+50118,28,1054,2025-02-26,5,0.05,28828.67,136936.18,16442.05,UPI,Mobile App,Standard,Office Equipment
+50119,57,1001,2025-10-22,1,0.0,58323.17,58323.17,9719.16,Debit Card,Mobile App,Standard,Electronics
+50120,148,1047,2025-05-21,2,0.05,2167.3,4117.87,1033.43,Cash on Delivery,Website,Standard,Accessories
+50121,89,1020,2025-09-11,4,0.15,9187.2,31236.48,4291.76,UPI,Mobile App,Standard,Furniture
+50122,69,1032,2025-09-30,1,0.0,241.73,241.73,53.39,UPI,Website,Standard,Stationery
+50123,82,1017,2026-01-22,1,0.0,6802.55,6802.55,1143.46,UPI,Marketplace,Standard,Networking
+50124,118,1030,2026-08-13,4,0.0,8425.83,33703.32,3658.55,Credit Card,Website,Express,Furniture
+50125,39,1028,2026-06-14,1,0.15,6048.55,5141.27,1205.27,Net Banking,Website,Express,Accessories
+50126,96,1032,2025-08-24,2,0.05,241.73,459.29,147.9,Credit Card,Website,Express,Stationery
+50127,131,1024,2025-07-22,5,0.2,42433.6,169734.4,23852.6,Debit Card,Store,Express,Electronics
+50128,86,1033,2026-04-26,2,0.15,477.24,811.31,279.31,UPI,Marketplace,Express,Stationery
+50129,67,1050,2025-03-19,2,0.05,23722.8,45073.32,5936.7,UPI,Store,Standard,Furniture
+50130,22,1027,2025-12-03,2,0.1,1401.54,2522.77,478.49,UPI,Mobile App,Standard,Accessories
+50131,38,1022,2025-09-21,3,0.0,70964.21,212892.63,32721.84,Cash on Delivery,Mobile App,Standard,Electronics
+50132,142,1008,2025-04-24,2,0.0,3937.51,7875.02,2166.11,Debit Card,Mobile App,Standard,Accessories
+50133,82,1022,2026-01-20,2,0.05,70964.21,134832.0,25233.95,Credit Card,Store,Standard,Electronics
+50134,46,1008,2025-07-19,1,0.05,3937.51,3740.63,943.47,Net Banking,Mobile App,Standard,Accessories
+50135,63,1011,2025-04-26,3,0.0,11263.8,33791.4,3738.05,UPI,Website,Express,Furniture
+50136,87,1058,2026-02-11,3,0.0,3369.95,10109.85,1925.58,UPI,Mobile App,Standard,Accessories
+50137,81,1006,2025-04-19,3,0.0,2599.47,7798.41,1757.35,UPI,Mobile App,Standard,Accessories
+50138,105,1029,2026-02-24,1,0.1,15282.9,13754.61,2070.21,Cash on Delivery,Website,Standard,Furniture
+50139,39,1051,2025-04-11,3,0.2,10450.86,25082.06,3022.32,Debit Card,Mobile App,Standard,Furniture
+50140,98,1058,2025-09-28,3,0.15,3369.95,8593.37,1890.54,Debit Card,Website,Express,Accessories
+50141,67,1009,2026-05-19,1,0.05,20536.09,19509.29,2170.29,UPI,Marketplace,Standard,Furniture
+50142,142,1010,2025-05-23,4,0.05,14618.21,55549.2,5669.63,UPI,Website,Express,Furniture
+50143,24,1023,2026-04-24,2,0.2,33930.89,54289.42,6805.88,Debit Card,Marketplace,Express,Electronics
+50144,23,1034,2026-03-26,2,0.05,25181.87,47845.55,6897.95,Credit Card,Mobile App,Standard,Office Equipment
+50145,70,1058,2026-07-17,3,0.0,3369.95,10109.85,2786.24,Cash on Delivery,Marketplace,Standard,Accessories
+50146,77,1013,2025-04-16,2,0.0,498.28,996.56,226.56,Net Banking,Website,Standard,Stationery
+50147,104,1010,2026-03-22,2,0.1,14618.21,26312.78,2927.91,Credit Card,Store,Standard,Furniture
+50148,61,1016,2026-08-07,1,0.05,2337.23,2220.37,323.58,Net Banking,Mobile App,Standard,Storage
+50149,138,1053,2026-04-21,5,0.15,453.24,1926.27,535.19,Cash on Delivery,Website,Same Day,Stationery
+50150,72,1002,2025-04-28,5,0.15,20805.41,88422.99,14951.18,Credit Card,Website,Standard,Electronics
+50151,20,1023,2026-05-28,1,0.0,33930.89,33930.89,5987.47,Debit Card,Website,Express,Electronics
+50152,18,1008,2025-03-08,3,0.1,3937.51,10631.28,2221.39,Cash on Delivery,Website,Standard,Accessories
+50153,147,1010,2026-01-02,1,0.0,14618.21,14618.21,1811.19,UPI,Marketplace,Same Day,Furniture
+50154,21,1056,2025-11-07,1,0.05,2092.68,1988.05,345.76,Cash on Delivery,Store,Standard,Storage
+50155,143,1001,2025-11-27,5,0.0,58323.17,291615.85,42313.85,UPI,Mobile App,Standard,Electronics
+50156,42,1020,2025-11-20,1,0.0,9187.2,9187.2,1080.4,Debit Card,Mobile App,Standard,Furniture
+50157,15,1055,2025-01-20,2,0.0,15982.2,31964.4,5827.34,Net Banking,Mobile App,Standard,Storage
+50158,46,1037,2025-11-13,1,0.0,2643.15,2643.15,462.95,Debit Card,Marketplace,Express,Networking
+50159,93,1005,2026-08-07,3,0.15,4966.96,12665.75,1810.25,Credit Card,Marketplace,Standard,Electronics
+50160,65,1028,2025-09-30,2,0.0,6048.55,12097.1,2262.85,Debit Card,Website,Standard,Accessories
+50161,118,1059,2025-06-22,2,0.05,2989.86,5680.73,1021.76,UPI,Store,Standard,Bags
+50162,92,1025,2026-09-12,5,0.0,9587.13,47935.65,8572.36,UPI,Mobile App,Standard,Electronics
+50163,61,1032,2025-03-03,2,0.0,241.73,483.46,185.22,UPI,Marketplace,Standard,Stationery
+50164,96,1032,2025-10-30,3,0.0,241.73,725.19,127.93,Debit Card,Store,Standard,Stationery
+50165,146,1040,2025-11-16,1,0.2,24809.39,19847.51,1578.29,Credit Card,Marketplace,Standard,Furniture
+50166,62,1012,2025-10-25,1,0.2,390.94,312.75,59.25,UPI,Website,Standard,Stationery
+50167,24,1051,2026-07-29,5,0.05,10450.86,49641.58,5336.49,Cash on Delivery,Mobile App,Standard,Furniture
+50168,62,1060,2025-09-20,4,0.05,25984.19,98739.92,13001.86,Credit Card,Website,Same Day,Furniture
+50169,127,1009,2026-08-30,3,0.2,20536.09,49286.62,6126.74,Credit Card,Marketplace,Standard,Furniture
+50170,33,1050,2025-02-11,2,0.0,23722.8,47445.6,5416.54,Credit Card,Website,Express,Furniture
+50171,143,1050,2026-04-03,1,0.2,23722.8,18978.24,2330.53,UPI,Marketplace,Standard,Furniture
+50172,89,1045,2026-01-05,4,0.0,2649.49,10597.96,1167.96,Net Banking,Store,Standard,Electronics
+50173,91,1023,2025-05-30,4,0.0,33930.89,135723.56,16696.45,Credit Card,Website,Standard,Electronics
+50174,48,1029,2025-05-23,1,0.0,15282.9,15282.9,1673.69,UPI,Mobile App,Standard,Furniture
+50175,139,1051,2026-03-25,2,0.0,10450.86,20901.72,1497.86,Cash on Delivery,Mobile App,Standard,Furniture
+50176,6,1010,2026-02-02,2,0.15,14618.21,24850.96,2035.2,Net Banking,Mobile App,Standard,Furniture
+50177,45,1050,2026-01-16,2,0.15,23722.8,40328.76,3341.56,Debit Card,Website,Standard,Furniture
+50178,63,1056,2025-02-01,5,0.05,2092.68,9940.23,2090.02,Cash on Delivery,Website,Same Day,Storage
+50179,72,1041,2026-01-08,1,0.15,61681.89,52429.61,7183.76,Cash on Delivery,Mobile App,Standard,Electronics
+50180,72,1021,2026-09-04,1,0.15,49224.66,41840.96,6170.55,UPI,Mobile App,Standard,Electronics
+50181,23,1034,2025-01-11,1,0.15,25181.87,21404.59,1783.83,Debit Card,Mobile App,Standard,Office Equipment
+50182,34,1004,2025-10-20,3,0.15,20837.66,53136.03,4653.12,Debit Card,Website,Standard,Electronics
+50183,15,1056,2025-11-04,3,0.05,2092.68,5964.14,1230.18,UPI,Mobile App,Express,Storage
+50184,86,1021,2026-07-13,5,0.0,49224.66,246123.3,12436.62,UPI,Website,Standard,Electronics
+50185,53,1004,2025-06-26,2,0.2,20837.66,33340.26,5501.96,UPI,Website,Standard,Electronics
+50186,85,1048,2025-10-24,1,0.05,4559.9,4331.9,518.85,Debit Card,Marketplace,Standard,Accessories
+50187,89,1040,2026-03-23,2,0.2,24809.39,39695.02,5176.59,Net Banking,Website,Standard,Furniture
+50188,106,1038,2025-02-07,1,0.2,1215.75,972.6,156.49,Net Banking,Mobile App,Same Day,Accessories
+50189,83,1004,2026-05-15,3,0.0,20837.66,62512.98,10001.99,UPI,Store,Standard,Electronics
+50190,98,1046,2026-05-28,3,0.05,1557.14,4437.85,1514.01,UPI,Mobile App,Express,Accessories
+50191,89,1039,2026-03-25,4,0.0,2825.6,11302.4,1073.52,Credit Card,Mobile App,Standard,Bags
+50192,98,1048,2026-02-08,1,0.0,4559.9,4559.9,1051.5,Credit Card,Website,Same Day,Accessories
+50193,93,1050,2026-04-11,1,0.2,23722.8,18978.24,1257.17,Cash on Delivery,Website,Standard,Furniture
+50194,48,1013,2026-05-03,1,0.2,498.28,398.62,104.65,Cash on Delivery,Website,Standard,Stationery
+50195,37,1013,2026-07-17,2,0.2,498.28,797.25,182.64,Cash on Delivery,Marketplace,Express,Stationery
+50196,119,1056,2025-09-24,2,0.2,2092.68,3348.29,619.9,Cash on Delivery,Marketplace,Standard,Storage
+50197,52,1032,2025-10-12,4,0.1,241.73,870.23,166.96,Cash on Delivery,Website,Standard,Stationery
+50198,83,1027,2026-02-02,4,0.05,1401.54,5325.85,1248.08,Credit Card,Website,Same Day,Accessories
+50199,30,1018,2025-05-01,1,0.2,3998.59,3198.87,435.92,UPI,Website,Standard,Accessories
+50200,65,1039,2026-06-18,1,0.05,2825.6,2684.32,649.34,UPI,Mobile App,Express,Bags
+50201,80,1046,2026-04-26,2,0.1,1557.14,2802.85,510.1,Credit Card,Mobile App,Express,Accessories
+50202,94,1001,2026-01-29,1,0.0,58323.17,58323.17,5242.26,UPI,Marketplace,Express,Electronics
+50203,79,1034,2025-07-07,1,0.1,25181.87,22663.68,4286.25,UPI,Store,Express,Office Equipment
+50204,55,1060,2025-08-05,4,0.15,25984.19,88346.25,9574.11,Cash on Delivery,Website,Standard,Furniture
+50205,145,1017,2025-09-28,3,0.1,6802.55,18366.89,4432.77,UPI,Mobile App,Standard,Networking
+50206,77,1017,2026-02-17,2,0.05,6802.55,12924.84,2787.61,Cash on Delivery,Mobile App,Standard,Networking
+50207,122,1053,2026-04-30,1,0.0,453.24,453.24,89.68,Net Banking,Website,Standard,Stationery
+50208,111,1004,2026-02-23,4,0.0,20837.66,83350.64,10632.98,Debit Card,Store,Express,Electronics
+50209,84,1024,2026-08-03,1,0.1,42433.6,38190.24,5096.93,Debit Card,Website,Standard,Electronics
+50210,133,1028,2026-08-22,2,0.1,6048.55,10887.39,2908.65,UPI,Marketplace,Standard,Accessories
+50211,20,1048,2026-03-16,4,0.15,4559.9,15503.66,3399.19,Debit Card,Marketplace,Standard,Accessories
+50212,139,1008,2025-08-20,5,0.2,3937.51,15750.04,3272.18,UPI,Store,Standard,Accessories
+50213,128,1027,2026-01-09,1,0.05,1401.54,1331.46,254.58,Cash on Delivery,Mobile App,Express,Accessories
+50214,76,1010,2025-09-22,3,0.15,14618.21,37276.44,4054.8,UPI,Website,Standard,Furniture
+50215,111,1048,2026-01-27,1,0.1,4559.9,4103.91,1056.35,UPI,Marketplace,Standard,Accessories
+50216,79,1038,2026-05-21,1,0.0,1215.75,1215.75,243.35,Debit Card,Marketplace,Express,Accessories
+50217,41,1030,2025-08-19,1,0.15,8425.83,7161.96,719.35,Debit Card,Mobile App,Same Day,Furniture
+50218,120,1024,2025-11-12,5,0.0,42433.6,212168.0,24156.41,Credit Card,Marketplace,Standard,Electronics
+50219,37,1010,2025-01-29,3,0.05,14618.21,41661.9,4024.49,Debit Card,Website,Same Day,Furniture
+50220,48,1056,2026-04-04,2,0.2,2092.68,3348.29,416.79,UPI,Mobile App,Standard,Storage
+50221,78,1039,2025-11-02,1,0.1,2825.6,2543.04,403.41,Debit Card,Marketplace,Express,Bags
+50222,126,1020,2025-10-14,1,0.2,9187.2,7349.76,1074.99,UPI,Website,Standard,Furniture
+50223,58,1025,2025-11-28,1,0.0,9587.13,9587.13,1189.68,UPI,Mobile App,Standard,Electronics
+50224,75,1044,2025-05-15,1,0.05,25839.3,24547.34,3685.69,UPI,Store,Express,Electronics
+50225,7,1044,2026-01-08,1,0.15,25839.3,21963.4,1298.2,UPI,Marketplace,Standard,Electronics
+50226,18,1028,2026-04-10,3,0.1,6048.55,16331.08,3674.59,UPI,Marketplace,Standard,Accessories
+50227,9,1019,2025-08-06,1,0.2,3726.15,2980.92,546.27,Credit Card,Mobile App,Standard,Bags
+50228,11,1040,2025-03-23,1,0.05,24809.39,23568.92,2317.98,UPI,Store,Standard,Furniture
+50229,131,1040,2025-08-29,2,0.1,24809.39,44656.9,5107.82,UPI,Website,Standard,Furniture
+50230,127,1036,2025-05-04,1,0.05,2828.09,2686.69,430.85,Credit Card,Mobile App,Standard,Storage
+50231,124,1005,2025-08-21,2,0.15,4966.96,8443.83,584.8,UPI,Mobile App,Standard,Electronics
+50232,9,1029,2026-01-26,1,0.0,15282.9,15282.9,2022.21,Debit Card,Marketplace,Express,Furniture
+50233,12,1037,2025-03-12,1,0.0,2643.15,2643.15,473.36,Cash on Delivery,Store,Same Day,Networking
+50234,43,1058,2026-04-11,2,0.0,3369.95,6739.9,1254.88,Credit Card,Marketplace,Standard,Accessories
+50235,85,1032,2025-05-20,3,0.1,241.73,652.67,123.35,Cash on Delivery,Mobile App,Standard,Stationery
+50236,51,1021,2026-07-12,2,0.0,49224.66,98449.32,8659.81,UPI,Mobile App,Standard,Electronics
+50237,74,1034,2026-04-02,2,0.0,25181.87,50363.74,7398.23,UPI,Mobile App,Standard,Office Equipment
+50238,26,1011,2025-06-19,2,0.15,11263.8,19148.46,2853.99,Debit Card,Mobile App,Express,Furniture
+50239,110,1006,2025-12-17,1,0.0,2599.47,2599.47,543.13,Net Banking,Website,Standard,Accessories
+50240,48,1041,2025-03-10,1,0.0,61681.89,61681.89,5579.31,Net Banking,Mobile App,Standard,Electronics
+50241,10,1060,2025-03-04,2,0.0,25984.19,51968.38,5999.64,UPI,Marketplace,Standard,Furniture
+50242,112,1051,2026-08-19,1,0.0,10450.86,10450.86,1136.1,Net Banking,Marketplace,Standard,Furniture
+50243,136,1036,2026-05-15,3,0.2,2828.09,6787.42,1453.97,Credit Card,Marketplace,Express,Storage
+50244,3,1003,2025-04-07,2,0.05,19839.12,37694.33,5554.36,UPI,Mobile App,Express,Electronics
+50245,66,1060,2025-06-26,1,0.2,25984.19,20787.35,784.58,UPI,Mobile App,Standard,Furniture
+50246,125,1027,2025-05-04,1,0.0,1401.54,1401.54,313.93,Cash on Delivery,Website,Standard,Accessories
+50247,106,1018,2025-09-04,1,0.0,3998.59,3998.59,623.17,UPI,Mobile App,Same Day,Accessories
+50248,129,1054,2025-07-01,3,0.0,28828.67,86486.01,8320.88,Net Banking,Mobile App,Standard,Office Equipment
+50249,63,1045,2025-07-24,4,0.05,2649.49,10068.06,1254.58,Debit Card,Website,Express,Electronics
+50250,56,1045,2025-11-26,1,0.05,2649.49,2517.02,356.8,Net Banking,Website,Express,Electronics
+50251,107,1017,2025-04-28,2,0.15,6802.55,11564.34,1256.31,Debit Card,Marketplace,Standard,Networking
+50252,24,1060,2026-07-05,1,0.0,25984.19,25984.19,3301.31,Cash on Delivery,Mobile App,Express,Furniture
+50253,36,1028,2026-03-30,2,0.15,6048.55,10282.54,2401.87,UPI,Mobile App,Standard,Accessories
+50254,91,1032,2026-04-19,1,0.1,241.73,217.56,52.75,UPI,Website,Express,Stationery
+50255,101,1046,2025-04-16,1,0.0,1557.14,1557.14,251.98,Debit Card,Mobile App,Standard,Accessories
+50256,18,1040,2026-03-18,2,0.2,24809.39,39695.02,3425.64,Credit Card,Mobile App,Standard,Furniture
+50257,77,1011,2026-06-05,1,0.05,11263.8,10700.61,1442.74,UPI,Mobile App,Standard,Furniture
+50258,55,1019,2025-04-20,2,0.0,3726.15,7452.3,-278.12,UPI,Mobile App,Standard,Bags
+50259,76,1022,2026-04-14,4,0.2,70964.21,227085.47,36434.47,UPI,Website,Standard,Electronics
+50260,144,1057,2025-08-11,4,0.2,6035.46,19313.47,3163.96,UPI,Store,Standard,Networking
+50261,12,1043,2026-05-06,1,0.0,16033.91,16033.91,2040.46,UPI,Website,Standard,Electronics
+50262,150,1022,2025-10-26,2,0.2,70964.21,113542.74,9213.84,Cash on Delivery,Mobile App,Standard,Electronics
+50263,68,1045,2026-05-15,4,0.2,2649.49,8478.37,-438.21,UPI,Website,Standard,Electronics
+50264,116,1045,2025-04-02,2,0.15,2649.49,4504.13,664.58,Cash on Delivery,Mobile App,Same Day,Electronics
+50265,64,1024,2025-08-31,1,0.0,42433.6,42433.6,3894.5,Cash on Delivery,Website,Same Day,Electronics
+50266,47,1025,2025-06-20,2,0.1,9587.13,17256.83,-1313.62,UPI,Marketplace,Standard,Electronics
+50267,116,1054,2025-06-04,1,0.05,28828.67,27387.24,3909.3,Debit Card,Mobile App,Standard,Office Equipment
+50268,104,1034,2025-07-12,1,0.05,25181.87,23922.78,2874.86,Debit Card,Mobile App,Express,Office Equipment
+50269,22,1009,2025-08-27,3,0.05,20536.09,58527.86,7648.6,Debit Card,Website,Express,Furniture
+50270,106,1044,2025-03-21,2,0.1,25839.3,46510.74,3116.94,UPI,Website,Standard,Electronics
+50271,113,1036,2026-03-17,4,0.05,2828.09,10746.74,2081.95,UPI,Mobile App,Express,Storage
+50272,59,1031,2025-12-09,1,0.1,11800.24,10620.22,1584.43,UPI,Mobile App,Standard,Furniture
+50273,139,1044,2026-06-01,4,0.05,25839.3,98189.34,16808.28,Debit Card,Mobile App,Standard,Electronics
+50274,97,1055,2026-03-16,2,0.0,15982.2,31964.4,6247.01,Cash on Delivery,Store,Express,Storage
+50275,51,1020,2025-04-03,3,0.0,9187.2,27561.6,2830.56,Debit Card,Marketplace,Express,Furniture
+50276,2,1026,2025-02-13,1,0.2,5311.67,4249.34,730.99,Debit Card,Store,Express,Accessories
+50277,102,1012,2025-09-21,1,0.2,390.94,312.75,70.06,Cash on Delivery,Website,Standard,Stationery
+50278,32,1039,2025-10-27,4,0.05,2825.6,10737.28,2284.15,Debit Card,Marketplace,Standard,Bags
+50279,114,1025,2025-05-30,4,0.0,9587.13,38348.52,4099.95,UPI,Mobile App,Standard,Electronics
+50280,79,1021,2026-05-03,5,0.15,49224.66,209204.81,31728.49,Cash on Delivery,Mobile App,Standard,Electronics
+50281,71,1042,2025-12-29,1,0.0,68597.09,68597.09,13102.62,Credit Card,Store,Standard,Electronics
+50282,25,1025,2026-04-11,1,0.05,9587.13,9107.77,1167.89,UPI,Mobile App,Standard,Electronics
+50283,107,1028,2025-03-09,5,0.0,6048.55,30242.75,4259.59,Credit Card,Marketplace,Standard,Accessories
+50284,25,1027,2026-05-23,2,0.0,1401.54,2803.08,394.76,Cash on Delivery,Marketplace,Express,Accessories
+50285,63,1016,2025-05-09,1,0.15,2337.23,1986.65,418.69,UPI,Website,Standard,Storage
+50286,126,1008,2025-10-07,4,0.05,3937.51,14962.54,2953.17,Credit Card,Marketplace,Standard,Accessories
+50287,139,1050,2025-10-01,5,0.0,23722.8,118614.0,15564.45,UPI,Mobile App,Express,Furniture
+50288,149,1006,2026-05-27,1,0.05,2599.47,2469.5,-262.72,UPI,Store,Standard,Accessories
+50289,144,1020,2025-06-22,4,0.0,9187.2,36748.8,4781.06,UPI,Marketplace,Express,Furniture
+50290,84,1041,2025-05-30,4,0.05,61681.89,234391.18,29409.68,Debit Card,Website,Standard,Electronics
+50291,31,1008,2025-07-31,2,0.05,3937.51,7481.27,1255.13,Cash on Delivery,Website,Standard,Accessories
+50292,126,1040,2025-08-13,3,0.0,24809.39,74428.17,7464.84,UPI,Website,Express,Furniture
+50293,121,1044,2025-04-24,1,0.15,25839.3,21963.4,2103.31,UPI,Mobile App,Standard,Electronics
+50294,149,1040,2025-04-20,5,0.0,24809.39,124046.95,19617.09,UPI,Website,Standard,Furniture
+50295,98,1019,2025-05-25,5,0.0,3726.15,18630.75,3464.78,UPI,Marketplace,Express,Bags
+50296,22,1002,2025-10-19,5,0.05,20805.41,98825.7,14669.01,Credit Card,Mobile App,Standard,Electronics
+50297,76,1054,2025-08-02,3,0.2,28828.67,69188.81,8542.36,Debit Card,Marketplace,Express,Office Equipment
+50298,68,1020,2025-09-02,1,0.05,9187.2,8727.84,737.88,Debit Card,Website,Express,Furniture
+50299,127,1049,2026-03-24,1,0.0,14177.38,14177.38,1479.27,Credit Card,Mobile App,Same Day,Furniture
+50300,59,1012,2025-05-31,2,0.2,390.94,625.5,186.49,Credit Card,Website,Standard,Stationery
+50301,50,1010,2026-07-21,5,0.05,14618.21,69436.5,6763.0,UPI,Marketplace,Standard,Furniture
+50302,13,1047,2026-04-14,2,0.0,2167.3,4334.6,700.89,UPI,Website,Express,Accessories
+50303,126,1057,2025-04-19,2,0.05,6035.46,11467.37,2016.13,Cash on Delivery,Website,Standard,Networking
+50304,114,1052,2025-07-15,1,0.0,206.78,206.78,55.08,Net Banking,Website,Standard,Stationery
+50305,7,1046,2025-04-25,4,0.2,1557.14,4982.85,1356.76,Cash on Delivery,Marketplace,Standard,Accessories
+50306,66,1015,2025-06-19,1,0.0,8390.1,8390.1,1627.75,Cash on Delivery,Website,Standard,Storage
+50307,72,1055,2025-08-16,1,0.05,15982.2,15183.09,3120.16,Debit Card,Mobile App,Standard,Storage
+50308,71,1041,2025-03-23,5,0.05,61681.89,292988.98,44115.72,Cash on Delivery,Marketplace,Standard,Electronics
+50309,138,1011,2025-01-09,1,0.0,11263.8,11263.8,924.72,Credit Card,Marketplace,Standard,Furniture
+50310,23,1008,2025-10-01,1,0.05,3937.51,3740.63,589.57,UPI,Website,Standard,Accessories
+50311,46,1053,2026-03-13,1,0.0,453.24,453.24,82.84,UPI,Website,Same Day,Stationery
+50312,28,1017,2025-07-08,2,0.1,6802.55,12244.59,1471.53,UPI,Mobile App,Standard,Networking
+50313,37,1046,2026-06-21,1,0.15,1557.14,1323.57,311.04,UPI,Website,Standard,Accessories
+50314,137,1009,2025-08-19,4,0.2,20536.09,65715.49,7689.97,Credit Card,Marketplace,Standard,Furniture
+50315,142,1017,2026-07-16,2,0.0,6802.55,13605.1,2353.32,Debit Card,Website,Standard,Networking
+50316,7,1018,2025-05-28,1,0.0,3998.59,3998.59,343.56,Net Banking,Mobile App,Same Day,Accessories
+50317,95,1017,2025-12-03,1,0.05,6802.55,6462.42,1595.41,Debit Card,Website,Express,Networking
+50318,35,1041,2026-04-21,2,0.1,61681.89,111027.4,11593.91,UPI,Mobile App,Standard,Electronics
+50319,29,1055,2025-02-06,1,0.2,15982.2,12785.76,3340.3,Net Banking,Website,Standard,Storage
+50320,44,1055,2026-08-03,5,0.0,15982.2,79911.0,9797.89,Credit Card,Mobile App,Standard,Storage
+50321,30,1045,2025-08-16,1,0.0,2649.49,2649.49,282.87,UPI,Website,Standard,Electronics
+50322,74,1013,2025-11-07,2,0.0,498.28,996.56,123.26,UPI,Store,Standard,Stationery
+50323,150,1058,2026-01-27,1,0.0,3369.95,3369.95,727.69,UPI,Marketplace,Standard,Accessories
+50324,88,1033,2026-02-05,1,0.05,477.24,453.38,82.45,UPI,Website,Standard,Stationery
+50325,109,1033,2025-01-15,1,0.15,477.24,405.65,74.37,Net Banking,Website,Standard,Stationery
+50326,74,1043,2026-06-25,1,0.0,16033.91,16033.91,1455.01,Net Banking,Website,Standard,Electronics
+50327,3,1047,2026-01-24,3,0.15,2167.3,5526.62,1294.35,Debit Card,Website,Standard,Accessories
+50328,13,1058,2026-09-15,5,0.05,3369.95,16007.26,3702.55,UPI,Website,Standard,Accessories
+50329,41,1035,2025-10-21,5,0.05,12594.51,59823.92,15061.06,Net Banking,Marketplace,Standard,Storage
+50330,37,1037,2026-01-18,1,0.1,2643.15,2378.84,343.4,Debit Card,Mobile App,Standard,Networking
+50331,127,1045,2025-10-02,4,0.0,2649.49,10597.96,1444.06,UPI,Website,Standard,Electronics
+50332,127,1016,2026-07-09,2,0.1,2337.23,4207.01,542.46,Debit Card,Mobile App,Standard,Storage
+50333,129,1019,2026-06-03,1,0.0,3726.15,3726.15,655.79,Credit Card,Website,Standard,Bags
+50334,96,1038,2026-07-21,1,0.05,1215.75,1154.96,204.63,Credit Card,Store,Express,Accessories
+50335,84,1004,2025-11-11,2,0.1,20837.66,37507.79,5374.24,UPI,Website,Express,Electronics
+50336,98,1020,2026-05-09,2,0.05,9187.2,17455.68,2349.74,Credit Card,Marketplace,Standard,Furniture
+50337,62,1044,2025-08-12,1,0.0,25839.3,25839.3,4091.51,UPI,Marketplace,Standard,Electronics
+50338,101,1059,2025-10-15,5,0.05,2989.86,14201.84,2198.03,UPI,Website,Express,Bags
+50339,120,1032,2026-04-19,3,0.05,241.73,688.93,201.66,UPI,Website,Express,Stationery
+50340,115,1024,2025-02-20,2,0.0,42433.6,84867.2,10925.73,Cash on Delivery,Mobile App,Standard,Electronics
+50341,93,1027,2026-03-19,5,0.1,1401.54,6306.93,1171.31,UPI,Marketplace,Standard,Accessories
+50342,9,1042,2025-01-10,5,0.0,68597.09,342985.45,37638.05,Credit Card,Mobile App,Standard,Electronics
+50343,109,1033,2025-12-28,5,0.05,477.24,2266.89,477.03,UPI,Mobile App,Standard,Stationery
+50344,55,1002,2025-10-25,1,0.1,20805.41,18724.87,3367.3,Cash on Delivery,Marketplace,Standard,Electronics
+50345,112,1033,2025-10-19,5,0.0,477.24,2386.2,611.42,Credit Card,Marketplace,Standard,Stationery
+50346,81,1025,2025-11-04,2,0.2,9587.13,15339.41,2070.73,Cash on Delivery,Mobile App,Standard,Electronics
+50347,133,1043,2025-11-03,3,0.05,16033.91,45696.64,5597.83,UPI,Mobile App,Standard,Electronics
+50348,51,1053,2025-09-11,4,0.0,453.24,1812.96,669.25,UPI,Marketplace,Standard,Stationery
+50349,140,1058,2025-10-09,1,0.1,3369.95,3032.96,780.75,Credit Card,Website,Express,Accessories
+50350,127,1037,2025-12-20,2,0.05,2643.15,5021.98,718.31,UPI,Marketplace,Standard,Networking
+50351,50,1022,2026-04-21,1,0.1,70964.21,63867.79,7803.02,Net Banking,Website,Standard,Electronics
+50352,73,1027,2025-12-10,1,0.15,1401.54,1191.31,227.03,Cash on Delivery,Website,Standard,Accessories
+50353,80,1011,2026-02-05,2,0.05,11263.8,21401.22,2429.68,Credit Card,Marketplace,Express,Furniture
+50354,116,1057,2026-06-06,4,0.15,6035.46,20520.56,2950.33,Cash on Delivery,Website,Standard,Networking
+50355,104,1051,2026-09-09,4,0.0,10450.86,41803.44,5042.3,Credit Card,Website,Standard,Furniture
+50356,128,1052,2025-03-09,2,0.05,206.78,392.88,124.41,UPI,Website,Standard,Stationery
+50357,56,1020,2026-03-21,1,0.0,9187.2,9187.2,718.53,Credit Card,Mobile App,Express,Furniture
+50358,76,1020,2025-05-21,2,0.05,9187.2,17455.68,1443.56,UPI,Marketplace,Express,Furniture
+50359,65,1052,2025-05-03,5,0.0,206.78,1033.9,221.76,Net Banking,Website,Express,Stationery
+50360,137,1033,2026-05-10,5,0.1,477.24,2147.58,465.89,UPI,Website,Standard,Stationery
+50361,46,1043,2025-02-12,1,0.15,16033.91,13628.82,2550.72,UPI,Mobile App,Standard,Electronics
+50362,89,1030,2026-06-13,1,0.15,8425.83,7161.96,961.43,Credit Card,Store,Standard,Furniture
+50363,19,1027,2026-04-26,3,0.2,1401.54,3363.7,812.5,UPI,Website,Standard,Accessories
+50364,128,1038,2026-09-12,1,0.0,1215.75,1215.75,229.01,UPI,Store,Express,Accessories
+50365,58,1049,2026-02-21,1,0.0,14177.38,14177.38,1461.28,Debit Card,Marketplace,Standard,Furniture
+50366,52,1021,2026-06-28,1,0.2,49224.66,39379.73,3484.37,UPI,Website,Standard,Electronics
+50367,88,1049,2025-03-15,2,0.05,14177.38,26937.02,3472.67,Credit Card,Marketplace,Express,Furniture
+50368,75,1015,2026-07-09,2,0.0,8390.1,16780.2,3346.74,UPI,Marketplace,Standard,Storage
+50369,128,1025,2025-04-10,2,0.0,9587.13,19174.26,3197.87,UPI,Mobile App,Standard,Electronics
+50370,80,1055,2025-07-15,1,0.15,15982.2,13584.87,2331.86,UPI,Mobile App,Standard,Storage
+50371,78,1058,2025-03-21,3,0.0,3369.95,10109.85,1958.9,Net Banking,Marketplace,Express,Accessories
+50372,16,1056,2025-09-08,3,0.0,2092.68,6278.04,1172.32,Cash on Delivery,Marketplace,Express,Storage
+50373,4,1019,2026-04-12,2,0.1,3726.15,6707.07,1524.39,UPI,Marketplace,Standard,Bags
+50374,60,1051,2025-06-17,1,0.0,10450.86,10450.86,777.76,Cash on Delivery,Store,Same Day,Furniture
+50375,150,1057,2026-05-28,2,0.0,6035.46,12070.92,2384.35,Debit Card,Mobile App,Express,Networking
+50376,138,1059,2026-01-13,3,0.0,2989.86,8969.58,1696.54,Debit Card,Marketplace,Express,Bags
+50377,95,1002,2026-01-27,1,0.05,20805.41,19765.14,1971.04,Debit Card,Marketplace,Express,Electronics
+50378,95,1045,2026-08-08,1,0.05,2649.49,2517.02,177.15,Debit Card,Website,Standard,Electronics
+50379,59,1060,2025-09-27,2,0.15,25984.19,44173.12,4713.15,Net Banking,Website,Express,Furniture
+50380,27,1046,2025-08-03,1,0.0,1557.14,1557.14,-69.88,Credit Card,Mobile App,Standard,Accessories
+50381,2,1014,2026-09-12,2,0.0,18785.33,37570.66,7197.8,Credit Card,Marketplace,Express,Office Equipment
+50382,51,1046,2025-12-14,1,0.0,1557.14,1557.14,335.78,UPI,Website,Standard,Accessories
+50383,48,1007,2026-01-18,1,0.0,3195.83,3195.83,915.06,UPI,Marketplace,Express,Accessories
+50384,29,1029,2025-07-04,3,0.05,15282.9,43556.26,4745.93,Debit Card,Website,Same Day,Furniture
+50385,39,1038,2025-05-15,2,0.0,1215.75,2431.5,588.29,UPI,Website,Standard,Accessories
+50386,4,1028,2025-04-16,2,0.05,6048.55,11492.24,2070.28,UPI,Mobile App,Same Day,Accessories
+50387,92,1042,2025-05-20,3,0.15,68597.09,174922.58,20165.51,UPI,Website,Standard,Electronics
+50388,140,1015,2025-05-02,1,0.15,8390.1,7131.58,1092.35,UPI,Marketplace,Standard,Storage
+50389,104,1037,2026-04-11,1,0.1,2643.15,2378.84,221.08,Debit Card,Website,Standard,Networking
+50390,68,1039,2025-02-06,4,0.2,2825.6,9041.92,2204.42,Debit Card,Store,Express,Bags
+50391,64,1039,2026-01-28,1,0.15,2825.6,2401.76,391.92,Credit Card,Website,Standard,Bags
+50392,47,1018,2026-08-15,2,0.1,3998.59,7197.46,1185.69,UPI,Store,Standard,Accessories
+50393,22,1019,2026-04-22,1,0.15,3726.15,3167.23,445.56,Credit Card,Mobile App,Standard,Bags
+50394,90,1016,2025-09-08,1,0.0,2337.23,2337.23,401.79,Credit Card,Website,Standard,Storage
+50395,85,1028,2025-02-07,1,0.15,6048.55,5141.27,1427.18,Debit Card,Website,Standard,Accessories
+50396,2,1036,2026-06-04,5,0.0,2828.09,14140.45,3717.72,Debit Card,Website,Express,Storage
+50397,63,1022,2025-01-02,2,0.1,70964.21,127735.58,10538.08,Credit Card,Mobile App,Express,Electronics
+50398,42,1025,2026-03-01,1,0.2,9587.13,7669.7,919.31,Credit Card,Marketplace,Express,Electronics
+50399,26,1018,2026-02-23,3,0.05,3998.59,11395.98,1760.55,Cash on Delivery,Mobile App,Standard,Accessories
+50400,106,1014,2025-04-30,1,0.0,18785.33,18785.33,3201.79,Net Banking,Mobile App,Same Day,Office Equipment
+50401,79,1040,2026-04-06,2,0.0,24809.39,49618.78,5802.2,Credit Card,Mobile App,Standard,Furniture
+50402,96,1049,2025-04-20,2,0.05,14177.38,26937.02,2548.11,Credit Card,Mobile App,Standard,Furniture
+50403,108,1018,2025-05-21,2,0.2,3998.59,6397.74,1299.98,UPI,Marketplace,Standard,Accessories
+50404,148,1052,2026-05-21,1,0.2,206.78,165.42,35.53,Cash on Delivery,Mobile App,Standard,Stationery
+50405,121,1035,2026-09-02,5,0.05,12594.51,59823.92,14592.5,UPI,Marketplace,Standard,Storage
+50406,94,1011,2025-06-14,1,0.2,11263.8,9011.04,1110.49,UPI,Store,Express,Furniture
+50407,132,1022,2026-07-28,3,0.05,70964.21,202248.0,30166.69,Cash on Delivery,Website,Standard,Electronics
+50408,72,1001,2026-07-23,3,0.05,58323.17,166221.03,8930.42,Debit Card,Website,Standard,Electronics
+50409,148,1003,2026-04-25,1,0.15,19839.12,16863.25,2160.01,UPI,Website,Express,Electronics
+50410,115,1021,2025-03-29,1,0.1,49224.66,44302.19,8398.8,UPI,Mobile App,Same Day,Electronics
+50411,98,1028,2025-07-06,1,0.05,6048.55,5746.12,1484.51,UPI,Website,Standard,Accessories
+50412,136,1048,2026-02-27,4,0.05,4559.9,17327.62,2057.27,Debit Card,Store,Standard,Accessories
+50413,78,1009,2026-09-15,5,0.1,20536.09,92412.4,9464.42,UPI,Mobile App,Standard,Furniture
+50414,109,1051,2026-05-23,5,0.15,10450.86,44416.16,3594.3,Cash on Delivery,Mobile App,Standard,Furniture
+50415,43,1015,2025-09-19,1,0.05,8390.1,7970.6,1974.79,Cash on Delivery,Marketplace,Standard,Storage
+50416,145,1009,2025-05-27,2,0.0,20536.09,41072.18,4760.74,Credit Card,Website,Standard,Furniture
+50417,94,1042,2026-08-22,1,0.0,68597.09,68597.09,7411.3,Debit Card,Marketplace,Express,Electronics
+50418,118,1047,2025-06-22,3,0.0,2167.3,6501.9,1310.15,UPI,Website,Standard,Accessories
+50419,70,1037,2025-08-02,2,0.05,2643.15,5021.98,364.02,UPI,Mobile App,Standard,Networking
+50420,131,1007,2026-08-24,3,0.05,3195.83,9108.12,1386.82,Net Banking,Store,Standard,Accessories
+50421,12,1007,2025-12-16,3,0.15,3195.83,8149.37,1642.94,UPI,Marketplace,Express,Accessories
+50422,18,1024,2025-06-14,5,0.0,42433.6,212168.0,32713.4,UPI,Marketplace,Standard,Electronics
+50423,77,1028,2025-01-04,2,0.15,6048.55,10282.54,1178.2,UPI,Mobile App,Standard,Accessories
+50424,110,1060,2025-09-25,1,0.1,25984.19,23385.77,2356.73,UPI,Marketplace,Standard,Furniture
+50425,122,1018,2026-09-07,2,0.0,3998.59,7997.18,1954.72,Credit Card,Mobile App,Express,Accessories
+50426,67,1012,2025-09-27,1,0.0,390.94,390.94,63.87,Debit Card,Mobile App,Express,Stationery
+50427,98,1057,2026-03-12,1,0.0,6035.46,6035.46,1077.76,Net Banking,Website,Standard,Networking
+50428,83,1010,2025-06-07,2,0.2,14618.21,23389.14,2610.15,Debit Card,Website,Standard,Furniture
+50429,145,1002,2026-04-29,4,0.2,20805.41,66577.31,11919.42,Net Banking,Mobile App,Standard,Electronics
+50430,99,1026,2026-04-29,2,0.15,5311.67,9029.84,1714.53,Credit Card,Website,Standard,Accessories
+50431,63,1025,2026-01-14,4,0.05,9587.13,36431.09,4557.25,Net Banking,Marketplace,Same Day,Electronics
+50432,146,1038,2026-04-26,1,0.05,1215.75,1154.96,274.44,Credit Card,Marketplace,Standard,Accessories
+50433,17,1053,2025-12-27,2,0.0,453.24,906.48,154.07,UPI,Store,Standard,Stationery
+50434,148,1056,2025-08-24,2,0.15,2092.68,3557.56,609.24,Cash on Delivery,Website,Express,Storage
+50435,24,1018,2026-04-05,1,0.0,3998.59,3998.59,719.54,UPI,Store,Express,Accessories
+50436,44,1059,2026-06-05,1,0.0,2989.86,2989.86,550.71,UPI,Website,Standard,Bags
+50437,124,1038,2026-06-08,1,0.0,1215.75,1215.75,288.53,UPI,Mobile App,Standard,Accessories
+50438,111,1005,2025-05-13,5,0.05,4966.96,23593.06,3441.02,Credit Card,Marketplace,Standard,Electronics
+50439,146,1057,2026-02-26,2,0.0,6035.46,12070.92,1714.06,Credit Card,Website,Express,Networking
+50440,113,1009,2025-01-03,1,0.0,20536.09,20536.09,2326.91,Credit Card,Website,Express,Furniture
+50441,96,1036,2025-12-23,1,0.05,2828.09,2686.69,642.18,Cash on Delivery,Website,Express,Storage
+50442,52,1048,2025-12-22,1,0.15,4559.9,3875.91,633.4,UPI,Mobile App,Express,Accessories
+50443,1,1015,2025-08-15,5,0.05,8390.1,39852.98,7402.64,Credit Card,Marketplace,Standard,Storage
+50444,19,1017,2026-09-12,1,0.15,6802.55,5782.17,941.2,UPI,Website,Standard,Networking
+50445,45,1029,2026-07-05,4,0.2,15282.9,48905.28,5305.01,Net Banking,Website,Standard,Furniture
+50446,7,1054,2025-01-25,1,0.2,28828.67,23062.94,2070.49,UPI,Mobile App,Express,Office Equipment
+50447,77,1014,2025-05-11,1,0.0,18785.33,18785.33,3446.2,UPI,Website,Standard,Office Equipment
+50448,117,1040,2025-05-10,1,0.2,24809.39,19847.51,1811.3,Credit Card,Marketplace,Standard,Furniture
+50449,145,1028,2026-07-14,4,0.2,6048.55,19355.36,4744.91,Debit Card,Store,Standard,Accessories
+50450,74,1007,2025-11-20,1,0.2,3195.83,2556.66,441.43,Net Banking,Marketplace,Express,Accessories
+50451,132,1043,2026-03-31,1,0.0,16033.91,16033.91,1797.57,Debit Card,Marketplace,Express,Electronics
+50452,148,1050,2026-05-20,1,0.0,23722.8,23722.8,3305.95,Net Banking,Mobile App,Express,Furniture
+50453,129,1035,2026-04-24,1,0.05,12594.51,11964.78,2624.57,Credit Card,Marketplace,Standard,Storage
+50454,70,1011,2025-02-25,1,0.2,11263.8,9011.04,1036.72,UPI,Website,Express,Furniture
+50455,49,1010,2025-03-29,5,0.2,14618.21,58472.84,7509.07,UPI,Website,Express,Furniture
+50456,147,1026,2025-09-04,2,0.05,5311.67,10092.17,1890.3,UPI,Mobile App,Express,Accessories
+50457,37,1031,2025-07-30,2,0.0,11800.24,23600.48,2591.27,UPI,Website,Express,Furniture
+50458,62,1034,2026-04-11,2,0.05,25181.87,47845.55,5723.38,Credit Card,Marketplace,Express,Office Equipment
+50459,12,1015,2025-04-08,5,0.1,8390.1,37755.45,8147.66,Credit Card,Marketplace,Same Day,Storage
+50460,120,1031,2025-08-20,1,0.05,11800.24,11210.23,1045.01,Credit Card,Store,Standard,Furniture
+50461,98,1018,2025-05-28,1,0.0,3998.59,3998.59,1061.01,Credit Card,Website,Standard,Accessories
+50462,13,1042,2025-04-28,1,0.0,68597.09,68597.09,8297.99,Debit Card,Mobile App,Standard,Electronics
+50463,34,1048,2025-04-18,1,0.0,4559.9,4559.9,916.09,Debit Card,Marketplace,Express,Accessories
+50464,84,1040,2025-05-02,1,0.0,24809.39,24809.39,3184.56,UPI,Website,Express,Furniture
+50465,82,1001,2025-12-18,2,0.1,58323.17,104981.71,13719.27,UPI,Mobile App,Standard,Electronics
+50466,121,1060,2025-09-13,1,0.0,25984.19,25984.19,2670.93,Debit Card,Mobile App,Standard,Furniture
+50467,40,1002,2025-09-29,1,0.2,20805.41,16644.33,2149.47,Debit Card,Store,Express,Electronics
+50468,139,1060,2025-10-26,1,0.0,25984.19,25984.19,3420.31,UPI,Marketplace,Express,Furniture
+50469,67,1002,2026-04-07,1,0.05,20805.41,19765.14,2194.77,UPI,Website,Same Day,Electronics
+50470,124,1031,2026-06-21,4,0.05,11800.24,44840.91,4795.51,Debit Card,Mobile App,Standard,Furniture
+50471,36,1007,2025-11-24,2,0.15,3195.83,5432.91,1089.04,Debit Card,Mobile App,Express,Accessories
+50472,6,1006,2026-02-05,5,0.2,2599.47,10397.88,2475.13,UPI,Website,Express,Accessories
+50473,9,1042,2026-04-06,1,0.05,68597.09,65167.24,8285.65,Credit Card,Mobile App,Standard,Electronics
+50474,56,1044,2026-03-07,5,0.1,25839.3,116276.85,21129.52,Cash on Delivery,Website,Standard,Electronics
+50475,143,1008,2025-03-25,1,0.1,3937.51,3543.76,684.34,UPI,Website,Same Day,Accessories
+50476,8,1059,2026-09-05,2,0.05,2989.86,5680.73,1022.9,Cash on Delivery,Mobile App,Standard,Bags
+50477,56,1020,2025-04-13,4,0.0,9187.2,36748.8,3890.27,UPI,Website,Standard,Furniture
+50478,17,1020,2025-09-14,2,0.05,9187.2,17455.68,1363.94,Credit Card,Mobile App,Express,Furniture
+50479,140,1018,2026-02-11,5,0.0,3998.59,19992.95,3086.59,Credit Card,Website,Express,Accessories
+50480,102,1028,2025-09-09,1,0.05,6048.55,5746.12,1015.06,UPI,Marketplace,Standard,Accessories
+50481,115,1011,2025-06-01,1,0.05,11263.8,10700.61,1471.2,Cash on Delivery,Website,Express,Furniture
+50482,107,1026,2026-07-30,4,0.0,5311.67,21246.68,4218.37,Credit Card,Marketplace,Standard,Accessories
+50483,99,1013,2025-02-14,1,0.0,498.28,498.28,106.84,Cash on Delivery,Website,Express,Stationery
+50484,117,1004,2025-06-03,4,0.15,20837.66,70848.04,11695.52,UPI,Mobile App,Standard,Electronics
+50485,2,1023,2026-09-11,3,0.05,33930.89,96703.04,16861.5,Cash on Delivery,Website,Express,Electronics
+50486,130,1041,2026-03-31,4,0.0,61681.89,246727.56,40933.07,Cash on Delivery,Website,Express,Electronics
+50487,111,1046,2025-02-24,2,0.1,1557.14,2802.85,-264.04,Credit Card,Mobile App,Standard,Accessories
+50488,111,1022,2026-04-16,5,0.1,70964.21,319338.95,36990.91,UPI,Marketplace,Standard,Electronics
+50489,60,1020,2026-08-28,1,0.15,9187.2,7809.12,1201.76,Debit Card,Store,Express,Furniture
+50490,121,1048,2025-03-02,2,0.15,4559.9,7751.83,1632.61,Credit Card,Website,Standard,Accessories
+50491,58,1041,2025-09-15,1,0.2,61681.89,49345.51,6037.22,Cash on Delivery,Website,Standard,Electronics
+50492,8,1050,2025-10-19,4,0.05,23722.8,90146.64,11483.24,Credit Card,Marketplace,Standard,Furniture
+50493,137,1055,2025-03-23,3,0.0,15982.2,47946.6,10542.93,UPI,Mobile App,Same Day,Storage
+50494,36,1050,2025-05-05,4,0.15,23722.8,80657.52,7756.91,UPI,Website,Standard,Furniture
+50495,16,1057,2025-04-19,4,0.0,6035.46,24141.84,4302.25,Debit Card,Marketplace,Standard,Networking
+50496,94,1025,2025-04-26,1,0.0,9587.13,9587.13,1500.38,Cash on Delivery,Mobile App,Same Day,Electronics
+50497,36,1024,2025-09-09,1,0.15,42433.6,36068.56,3492.01,UPI,Mobile App,Standard,Electronics
+50498,129,1020,2025-10-16,5,0.2,9187.2,36748.8,4053.35,Net Banking,Website,Standard,Furniture
+50499,67,1015,2025-05-29,2,0.0,8390.1,16780.2,2279.93,Cash on Delivery,Mobile App,Standard,Storage
+50500,1,1045,2025-06-30,1,0.1,2649.49,2384.54,242.91,UPI,Website,Standard,Electronics
+50501,143,1043,2025-04-30,5,0.2,16033.91,64135.64,-6198.39,UPI,Marketplace,Standard,Electronics
+50502,78,1049,2026-05-11,5,0.15,14177.38,60253.86,7323.63,Debit Card,Website,Express,Furniture
+50503,40,1011,2025-05-12,2,0.0,11263.8,22527.6,2302.48,Debit Card,Marketplace,Standard,Furniture
+50504,102,1030,2026-07-20,4,0.1,8425.83,30332.99,2860.65,UPI,Marketplace,Express,Furniture
+50505,80,1014,2025-12-02,1,0.0,18785.33,18785.33,2659.78,Net Banking,Marketplace,Standard,Office Equipment
+50506,5,1054,2026-05-16,1,0.15,28828.67,24504.37,2564.96,Credit Card,Website,Standard,Office Equipment
+50507,114,1017,2026-02-01,1,0.0,6802.55,6802.55,1265.53,Cash on Delivery,Website,Standard,Networking
+50508,61,1009,2025-06-15,3,0.2,20536.09,49286.62,6770.97,Cash on Delivery,Mobile App,Standard,Furniture
+50509,105,1035,2026-01-10,1,0.0,12594.51,12594.51,2227.51,Net Banking,Mobile App,Express,Storage
+50510,135,1053,2025-06-20,1,0.05,453.24,430.58,98.73,Credit Card,Store,Standard,Stationery
+50511,92,1055,2025-03-15,3,0.0,15982.2,47946.6,9339.43,UPI,Website,Standard,Storage
+50512,101,1006,2025-06-08,4,0.15,2599.47,8838.2,978.81,Credit Card,Marketplace,Standard,Accessories
+50513,39,1020,2025-06-21,3,0.05,9187.2,26183.52,3220.34,UPI,Website,Express,Furniture
+50514,36,1010,2025-03-26,4,0.1,14618.21,52625.56,9739.18,Debit Card,Website,Standard,Furniture
+50515,63,1019,2025-01-15,4,0.0,3726.15,14904.6,2755.45,UPI,Website,Express,Bags
+50516,128,1033,2026-08-11,2,0.05,477.24,906.76,211.92,Credit Card,Marketplace,Standard,Stationery
+50517,79,1017,2025-11-16,2,0.2,6802.55,10884.08,2152.99,UPI,Website,Standard,Networking
+50518,53,1005,2025-09-08,4,0.2,4966.96,15894.27,2814.18,UPI,Website,Express,Electronics
+50519,117,1031,2026-08-03,1,0.0,11800.24,11800.24,1576.44,UPI,Marketplace,Standard,Furniture
+50520,129,1004,2025-05-20,1,0.05,20837.66,19795.78,1353.03,Debit Card,Mobile App,Standard,Electronics
+50521,136,1014,2025-09-08,4,0.05,18785.33,71384.25,11232.5,Net Banking,Website,Same Day,Office Equipment
+50522,45,1001,2026-06-12,1,0.05,58323.17,55407.01,11278.5,UPI,Website,Standard,Electronics
+50523,107,1006,2026-01-29,5,0.05,2599.47,12347.48,2807.66,Cash on Delivery,Mobile App,Standard,Accessories
+50524,89,1027,2025-09-06,2,0.0,1401.54,2803.08,418.21,Cash on Delivery,Website,Standard,Accessories
+50525,68,1052,2025-06-09,4,0.15,206.78,703.05,179.19,UPI,Website,Standard,Stationery
+50526,60,1047,2025-01-22,1,0.0,2167.3,2167.3,311.33,Debit Card,Mobile App,Express,Accessories
+50527,18,1006,2025-02-22,3,0.0,2599.47,7798.41,1982.69,Credit Card,Website,Standard,Accessories
+50528,42,1003,2025-04-11,2,0.15,19839.12,33726.5,3462.42,UPI,Mobile App,Same Day,Electronics
+50529,83,1021,2026-05-06,2,0.1,49224.66,88604.39,11706.71,Credit Card,Website,Express,Electronics
+50530,133,1040,2026-02-03,1,0.05,24809.39,23568.92,2103.33,UPI,Website,Same Day,Furniture
+50531,130,1045,2025-09-28,5,0.2,2649.49,10597.96,1212.11,Cash on Delivery,Website,Express,Electronics
+50532,29,1050,2026-05-03,2,0.05,23722.8,45073.32,6579.12,Cash on Delivery,Website,Same Day,Furniture
+50533,102,1021,2025-04-11,4,0.05,49224.66,187053.71,24870.45,Net Banking,Website,Standard,Electronics
+50534,13,1011,2025-05-12,2,0.0,11263.8,22527.6,2173.18,Credit Card,Website,Standard,Furniture
+50535,102,1002,2025-09-02,1,0.0,20805.41,20805.41,2023.25,Credit Card,Store,Standard,Electronics
+50536,52,1009,2026-07-26,5,0.05,20536.09,97546.43,6311.72,Cash on Delivery,Marketplace,Express,Furniture
+50537,68,1004,2026-01-18,1,0.05,20837.66,19795.78,1865.03,UPI,Website,Standard,Electronics
+50538,108,1052,2026-06-15,1,0.15,206.78,175.76,43.22,UPI,Mobile App,Express,Stationery
+50539,64,1017,2025-06-04,4,0.05,6802.55,25849.69,5342.12,Credit Card,Mobile App,Standard,Networking
+50540,122,1050,2026-06-13,5,0.2,23722.8,94891.2,9151.26,UPI,Marketplace,Express,Furniture
+50541,81,1034,2025-02-15,5,0.05,25181.87,119613.88,22531.99,UPI,Website,Standard,Office Equipment
+50542,150,1033,2025-05-22,2,0.0,477.24,954.48,-21.68,UPI,Website,Same Day,Stationery
+50543,96,1028,2025-11-22,4,0.1,6048.55,21774.78,4126.92,Debit Card,Website,Standard,Accessories
+50544,45,1050,2025-02-01,1,0.05,23722.8,22536.66,1890.25,UPI,Website,Standard,Furniture
+50545,117,1003,2026-06-19,3,0.05,19839.12,56541.49,8952.54,UPI,Website,Express,Electronics
+50546,62,1006,2026-06-25,2,0.05,2599.47,4938.99,1443.62,UPI,Marketplace,Express,Accessories
+50547,81,1026,2025-12-04,1,0.0,5311.67,5311.67,650.57,Credit Card,Store,Express,Accessories
+50548,21,1024,2025-07-10,2,0.05,42433.6,80623.84,9682.9,Cash on Delivery,Website,Same Day,Electronics
+50549,18,1033,2025-03-03,2,0.05,477.24,906.76,278.18,UPI,Mobile App,Standard,Stationery
+50550,87,1045,2026-01-21,1,0.05,2649.49,2517.02,223.05,Debit Card,Mobile App,Express,Electronics
+50551,29,1036,2025-12-01,1,0.0,2828.09,2828.09,-264.41,Net Banking,Mobile App,Standard,Storage
+50552,150,1016,2026-04-19,2,0.05,2337.23,4440.74,1014.13,UPI,Mobile App,Standard,Storage
+50553,129,1020,2026-01-11,1,0.05,9187.2,8727.84,976.59,Net Banking,Website,Standard,Furniture
+50554,106,1046,2025-03-21,1,0.05,1557.14,1479.28,331.67,Debit Card,Marketplace,Standard,Accessories
+50555,111,1013,2025-03-17,4,0.0,498.28,1993.12,-79.08,Credit Card,Store,Standard,Stationery
+50556,90,1031,2026-05-02,1,0.05,11800.24,11210.23,1761.71,UPI,Mobile App,Express,Furniture
+50557,10,1033,2025-04-10,2,0.0,477.24,954.48,225.95,UPI,Mobile App,Standard,Stationery
+50558,59,1046,2026-08-08,2,0.05,1557.14,2958.57,522.41,Cash on Delivery,Mobile App,Same Day,Accessories
+50559,75,1043,2025-03-08,2,0.0,16033.91,32067.82,3325.07,Net Banking,Website,Standard,Electronics
+50560,138,1028,2026-03-30,2,0.05,6048.55,11492.24,2792.46,Cash on Delivery,Website,Standard,Accessories
+50561,33,1019,2026-08-31,2,0.15,3726.15,6334.46,840.33,Cash on Delivery,Mobile App,Express,Bags
+50562,75,1023,2025-10-02,4,0.15,33930.89,115365.03,14164.1,UPI,Website,Standard,Electronics
+50563,52,1025,2025-02-05,5,0.1,9587.13,43142.08,5735.18,Net Banking,Marketplace,Standard,Electronics
+50564,21,1014,2026-07-01,1,0.1,18785.33,16906.8,2105.02,Credit Card,Mobile App,Express,Office Equipment
+50565,16,1038,2025-04-27,3,0.0,1215.75,3647.25,774.36,Net Banking,Mobile App,Standard,Accessories
+50566,55,1013,2025-11-25,5,0.0,498.28,2491.4,935.29,UPI,Website,Standard,Stationery
+50567,13,1039,2026-09-06,1,0.1,2825.6,2543.04,470.25,UPI,Store,Express,Bags
+50568,11,1046,2026-04-09,4,0.15,1557.14,5294.28,957.43,Net Banking,Website,Standard,Accessories
+50569,53,1058,2025-01-29,2,0.05,3369.95,6402.9,1566.63,Net Banking,Website,Express,Accessories
+50570,31,1008,2026-05-27,5,0.15,3937.51,16734.42,3523.29,Debit Card,Website,Express,Accessories
+50571,84,1046,2025-04-11,2,0.0,1557.14,3114.28,820.09,UPI,Mobile App,Standard,Accessories
+50572,3,1006,2026-04-12,4,0.0,2599.47,10397.88,2154.92,UPI,Store,Standard,Accessories
+50573,46,1021,2026-01-22,1,0.0,49224.66,49224.66,6049.47,Cash on Delivery,Website,Standard,Electronics
+50574,68,1011,2025-06-29,1,0.05,11263.8,10700.61,715.16,Credit Card,Store,Express,Furniture
+50575,145,1010,2025-09-21,5,0.1,14618.21,65781.94,4657.52,Credit Card,Website,Standard,Furniture
+50576,96,1011,2025-03-15,2,0.0,11263.8,22527.6,1477.27,Credit Card,Mobile App,Same Day,Furniture
+50577,133,1003,2026-09-07,2,0.15,19839.12,33726.5,4750.35,Credit Card,Website,Standard,Electronics
+50578,52,1050,2025-05-29,1,0.1,23722.8,21350.52,1644.71,Credit Card,Mobile App,Express,Furniture
+50579,68,1004,2025-07-12,1,0.0,20837.66,20837.66,3457.17,Credit Card,Mobile App,Standard,Electronics
+50580,64,1024,2025-11-10,4,0.0,42433.6,169734.4,22212.3,Net Banking,Mobile App,Standard,Electronics
+50581,134,1042,2026-02-23,1,0.1,68597.09,61737.38,7594.7,Cash on Delivery,Website,Standard,Electronics
+50582,144,1060,2025-11-11,2,0.1,25984.19,46771.54,4189.73,Cash on Delivery,Marketplace,Standard,Furniture
+50583,145,1052,2025-11-11,1,0.0,206.78,206.78,56.42,Credit Card,Store,Same Day,Stationery
+50584,113,1009,2025-12-29,1,0.0,20536.09,20536.09,1859.16,Credit Card,Mobile App,Standard,Furniture
+50585,76,1060,2026-06-19,1,0.05,25984.19,24684.98,2126.71,Debit Card,Mobile App,Standard,Furniture
+50586,82,1040,2025-09-04,5,0.05,24809.39,117844.6,16351.89,Net Banking,Marketplace,Standard,Furniture
+50587,148,1011,2026-06-03,5,0.0,11263.8,56319.0,6678.41,Credit Card,Website,Standard,Furniture
+50588,43,1027,2026-05-06,1,0.2,1401.54,1121.23,212.66,Debit Card,Marketplace,Express,Accessories
+50589,53,1056,2026-08-22,1,0.05,2092.68,1988.05,408.35,Net Banking,Website,Express,Storage
+50590,135,1024,2026-07-23,2,0.05,42433.6,80623.84,10501.69,Debit Card,Marketplace,Express,Electronics
+50591,58,1012,2026-05-13,2,0.0,390.94,781.88,-43.91,Net Banking,Website,Standard,Stationery
+50592,36,1053,2025-06-03,3,0.2,453.24,1087.78,214.15,UPI,Website,Standard,Stationery
+50593,85,1058,2026-04-28,1,0.0,3369.95,3369.95,980.98,Credit Card,Mobile App,Express,Accessories
+50594,49,1059,2026-04-04,1,0.2,2989.86,2391.89,396.51,Debit Card,Mobile App,Standard,Bags
+50595,134,1058,2025-06-30,1,0.05,3369.95,3201.45,859.48,UPI,Marketplace,Express,Accessories
+50596,137,1053,2026-02-27,2,0.15,453.24,770.51,177.24,Cash on Delivery,Store,Standard,Stationery
+50597,46,1028,2025-06-07,1,0.0,6048.55,6048.55,1424.51,Debit Card,Website,Standard,Accessories
+50598,80,1012,2025-11-22,4,0.0,390.94,1563.76,435.92,UPI,Website,Express,Stationery
+50599,148,1038,2026-05-12,1,0.15,1215.75,1033.39,258.82,Net Banking,Website,Standard,Accessories
+50600,112,1014,2025-04-28,1,0.15,18785.33,15967.53,1822.04,Debit Card,Mobile App,Same Day,Office Equipment
+50601,33,1029,2025-07-29,2,0.05,15282.9,29037.51,3949.98,Net Banking,Mobile App,Standard,Furniture
+50602,89,1040,2026-05-11,2,0.0,24809.39,49618.78,7675.22,Credit Card,Marketplace,Standard,Furniture
+50603,93,1057,2025-10-10,1,0.2,6035.46,4828.37,774.11,Cash on Delivery,Marketplace,Standard,Networking
+50604,99,1018,2026-08-22,1,0.05,3998.59,3798.66,765.53,Credit Card,Website,Standard,Accessories
+50605,4,1016,2025-01-05,1,0.2,2337.23,1869.78,297.8,Debit Card,Mobile App,Standard,Storage
+50606,45,1045,2026-03-26,3,0.15,2649.49,6756.2,811.37,UPI,Mobile App,Standard,Electronics
+50607,129,1001,2026-05-23,2,0.15,58323.17,99149.39,17742.46,Debit Card,Mobile App,Express,Electronics
+50608,37,1034,2026-07-26,1,0.1,25181.87,22663.68,2471.92,Debit Card,Website,Express,Office Equipment
+50609,45,1045,2025-04-08,2,0.1,2649.49,4769.08,491.48,Credit Card,Mobile App,Standard,Electronics
+50610,49,1034,2026-09-06,5,0.05,25181.87,119613.88,22680.68,Credit Card,Mobile App,Standard,Office Equipment
+50611,27,1024,2025-09-02,1,0.0,42433.6,42433.6,6274.32,Net Banking,Website,Standard,Electronics
+50612,24,1050,2025-08-08,5,0.05,23722.8,112683.3,18177.28,Debit Card,Marketplace,Express,Furniture
+50613,53,1023,2025-08-10,1,0.1,33930.89,30537.8,3576.51,UPI,Website,Standard,Electronics
+50614,132,1043,2026-02-02,1,0.15,16033.91,13628.82,1820.97,Cash on Delivery,Mobile App,Standard,Electronics
+50615,1,1028,2026-02-15,1,0.05,6048.55,5746.12,982.19,Debit Card,Mobile App,Standard,Accessories
+50616,43,1002,2025-10-23,1,0.1,20805.41,18724.87,2510.98,Cash on Delivery,Marketplace,Standard,Electronics
+50617,10,1032,2025-02-14,1,0.0,241.73,241.73,35.37,Cash on Delivery,Website,Standard,Stationery
+50618,85,1003,2026-09-07,2,0.05,19839.12,37694.33,5638.68,Cash on Delivery,Website,Standard,Electronics
+50619,38,1056,2025-05-19,1,0.05,2092.68,1988.05,383.32,Net Banking,Website,Same Day,Storage
+50620,119,1037,2025-02-28,3,0.2,2643.15,6343.56,1064.75,Debit Card,Mobile App,Standard,Networking
+50621,88,1023,2026-01-08,2,0.0,33930.89,67861.78,8064.39,UPI,Website,Standard,Electronics
+50622,118,1030,2025-09-14,2,0.0,8425.83,16851.66,1488.79,Credit Card,Marketplace,Standard,Furniture
+50623,96,1038,2026-01-19,2,0.0,1215.75,2431.5,564.16,Net Banking,Website,Standard,Accessories
+50624,66,1016,2026-06-30,1,0.0,2337.23,2337.23,312.31,Credit Card,Website,Standard,Storage
+50625,130,1018,2025-03-02,3,0.05,3998.59,11395.98,2535.87,Cash on Delivery,Mobile App,Standard,Accessories
+50626,72,1026,2025-06-26,1,0.1,5311.67,4780.5,-98.09,UPI,Marketplace,Standard,Accessories
+50627,143,1016,2025-11-18,3,0.15,2337.23,5959.94,1423.39,Credit Card,Marketplace,Express,Storage
+50628,150,1046,2026-05-06,5,0.2,1557.14,6228.56,833.22,Credit Card,Marketplace,Standard,Accessories
+50629,89,1007,2026-01-10,4,0.0,3195.83,12783.32,2254.77,Credit Card,Mobile App,Express,Accessories
+50630,102,1050,2025-08-27,2,0.0,23722.8,47445.6,5702.92,UPI,Marketplace,Standard,Furniture
+50631,39,1021,2026-01-16,1,0.0,49224.66,49224.66,6300.26,UPI,Marketplace,Standard,Electronics
+50632,123,1034,2026-09-03,4,0.0,25181.87,100727.48,-9932.1,Net Banking,Website,Same Day,Office Equipment
+50633,101,1010,2025-10-27,1,0.15,14618.21,12425.48,1482.67,Credit Card,Mobile App,Express,Furniture
+50634,136,1024,2026-07-05,2,0.0,42433.6,84867.2,11008.42,UPI,Marketplace,Standard,Electronics
+50635,41,1046,2026-05-01,4,0.0,1557.14,6228.56,1770.35,UPI,Website,Express,Accessories
+50636,119,1017,2025-07-07,5,0.15,6802.55,28910.84,4641.04,Credit Card,Mobile App,Standard,Networking
+50637,71,1008,2025-06-05,5,0.2,3937.51,15750.04,3959.44,UPI,Mobile App,Standard,Accessories
+50638,28,1032,2026-04-25,1,0.0,241.73,241.73,41.84,Debit Card,Mobile App,Express,Stationery
+50639,26,1010,2025-05-10,5,0.0,14618.21,73091.05,6221.67,Net Banking,Website,Express,Furniture
+50640,85,1019,2025-07-29,1,0.05,3726.15,3539.84,779.35,UPI,Mobile App,Standard,Bags
+50641,48,1028,2025-05-27,2,0.05,6048.55,11492.24,2846.45,Debit Card,Marketplace,Standard,Accessories
+50642,16,1034,2026-01-13,5,0.2,25181.87,100727.48,11131.63,UPI,Website,Standard,Office Equipment
+50643,65,1039,2025-07-03,3,0.05,2825.6,8052.96,1538.17,UPI,Website,Standard,Bags
+50644,98,1041,2026-02-15,5,0.0,61681.89,308409.45,27907.0,Cash on Delivery,Website,Same Day,Electronics
+50645,48,1051,2026-08-06,1,0.05,10450.86,9928.32,1048.57,Credit Card,Website,Standard,Furniture
+50646,144,1004,2026-06-01,1,0.05,20837.66,19795.78,3047.28,Cash on Delivery,Store,Standard,Electronics
+50647,117,1022,2026-08-14,1,0.05,70964.21,67416.0,7925.44,UPI,Mobile App,Standard,Electronics
+50648,77,1001,2025-01-16,1,0.05,58323.17,55407.01,6808.28,UPI,Website,Standard,Electronics
+50649,141,1001,2025-10-11,3,0.2,58323.17,139975.61,13673.92,Credit Card,Website,Standard,Electronics
+50650,65,1013,2025-05-18,2,0.15,498.28,847.08,174.3,Credit Card,Store,Same Day,Stationery
+50651,21,1036,2026-07-26,3,0.0,2828.09,8484.27,2117.85,Cash on Delivery,Website,Express,Storage
+50652,6,1054,2026-03-20,2,0.0,28828.67,57657.34,8201.53,UPI,Marketplace,Express,Office Equipment
+50653,141,1047,2025-07-19,1,0.1,2167.3,1950.57,304.09,Cash on Delivery,Website,Standard,Accessories
+50654,144,1039,2025-12-18,1,0.05,2825.6,2684.32,474.7,Cash on Delivery,Website,Standard,Bags
+50655,111,1047,2026-01-13,2,0.05,2167.3,4117.87,534.14,Credit Card,Marketplace,Standard,Accessories
+50656,16,1011,2025-11-05,5,0.0,11263.8,56319.0,4812.87,UPI,Website,Standard,Furniture
+50657,45,1051,2025-10-23,4,0.0,10450.86,41803.44,5974.56,Credit Card,Mobile App,Standard,Furniture
+50658,7,1054,2025-02-04,1,0.1,28828.67,25945.8,3518.55,UPI,Website,Express,Office Equipment
+50659,8,1006,2025-10-09,2,0.15,2599.47,4419.1,1251.45,Net Banking,Marketplace,Express,Accessories
+50660,37,1029,2025-08-05,3,0.15,15282.9,38971.39,4196.93,Credit Card,Marketplace,Standard,Furniture
+50661,86,1050,2026-05-25,2,0.0,23722.8,47445.6,5177.71,Cash on Delivery,Marketplace,Standard,Furniture
+50662,10,1029,2026-06-23,1,0.0,15282.9,15282.9,1918.15,Debit Card,Website,Express,Furniture
+50663,148,1051,2026-04-13,2,0.0,10450.86,20901.72,947.34,Credit Card,Marketplace,Standard,Furniture
+50664,69,1057,2025-01-20,1,0.05,6035.46,5733.69,1018.67,Debit Card,Store,Same Day,Networking
+50665,40,1029,2026-06-09,1,0.05,15282.9,14518.76,1579.85,Credit Card,Website,Standard,Furniture
+50666,78,1004,2025-09-04,3,0.2,20837.66,50010.38,-5845.28,Cash on Delivery,Website,Standard,Electronics
+50667,119,1021,2025-09-17,1,0.2,49224.66,39379.73,6205.84,UPI,Marketplace,Standard,Electronics
+50668,47,1013,2026-08-12,1,0.0,498.28,498.28,89.76,Cash on Delivery,Website,Same Day,Stationery
+50669,8,1029,2026-06-25,2,0.1,15282.9,27509.22,3852.93,Net Banking,Mobile App,Standard,Furniture
+50670,8,1036,2025-02-01,3,0.0,2828.09,8484.27,1439.04,Cash on Delivery,Marketplace,Express,Storage
+50671,128,1028,2025-08-13,2,0.0,6048.55,12097.1,1938.0,Credit Card,Website,Standard,Accessories
+50672,17,1012,2026-04-13,1,0.05,390.94,371.39,93.0,Net Banking,Mobile App,Standard,Stationery
+50673,96,1019,2025-12-02,4,0.0,3726.15,14904.6,2705.55,UPI,Mobile App,Express,Bags
+50674,58,1041,2025-06-10,5,0.0,61681.89,308409.45,53663.28,Net Banking,Website,Standard,Electronics
+50675,117,1002,2025-11-23,5,0.05,20805.41,98825.7,13810.08,UPI,Marketplace,Standard,Electronics
+50676,10,1013,2026-06-24,3,0.0,498.28,1494.84,-155.21,UPI,Website,Standard,Stationery
+50677,135,1054,2025-05-20,2,0.05,28828.67,54774.47,9187.87,Credit Card,Website,Express,Office Equipment
+50678,105,1006,2026-04-10,5,0.05,2599.47,12347.48,3063.24,UPI,Marketplace,Standard,Accessories
+50679,68,1025,2026-04-03,2,0.15,9587.13,16298.12,2484.01,Credit Card,Website,Standard,Electronics
+50680,32,1013,2026-07-06,1,0.0,498.28,498.28,156.93,Net Banking,Marketplace,Same Day,Stationery
+50681,147,1007,2025-07-05,4,0.0,3195.83,12783.32,2899.03,UPI,Website,Express,Accessories
+50682,46,1026,2025-05-15,1,0.05,5311.67,5046.09,1046.44,Net Banking,Mobile App,Express,Accessories
+50683,74,1032,2025-12-08,5,0.0,241.73,1208.65,369.16,UPI,Website,Express,Stationery
+50684,60,1011,2025-11-27,1,0.1,11263.8,10137.42,1092.82,Net Banking,Mobile App,Express,Furniture
+50685,35,1005,2025-09-13,4,0.0,4966.96,19867.84,2601.71,Net Banking,Marketplace,Standard,Electronics
+50686,63,1009,2026-05-01,2,0.05,20536.09,39018.57,5917.64,Credit Card,Marketplace,Standard,Furniture
+50687,23,1040,2026-05-13,2,0.2,24809.39,39695.02,5924.5,Debit Card,Store,Express,Furniture
+50688,1,1052,2025-06-03,1,0.0,206.78,206.78,-21.11,Cash on Delivery,Mobile App,Express,Stationery
+50689,44,1011,2026-05-11,4,0.0,11263.8,45055.2,4461.55,Net Banking,Marketplace,Same Day,Furniture
+50690,17,1020,2025-05-24,1,0.15,9187.2,7809.12,1135.51,Credit Card,Mobile App,Standard,Furniture
+50691,63,1021,2025-09-11,2,0.05,49224.66,93526.85,14299.5,Credit Card,Store,Standard,Electronics
+50692,130,1022,2025-01-17,1,0.0,70964.21,70964.21,9865.84,Net Banking,Mobile App,Standard,Electronics
+50693,25,1015,2025-08-01,2,0.0,8390.1,16780.2,2806.55,UPI,Marketplace,Standard,Storage
+50694,1,1004,2026-08-21,1,0.15,20837.66,17712.01,2470.59,Net Banking,Website,Standard,Electronics
+50695,17,1032,2025-10-03,3,0.15,241.73,616.41,147.23,UPI,Mobile App,Express,Stationery
+50696,77,1022,2026-03-19,2,0.0,70964.21,141928.42,15754.04,Net Banking,Marketplace,Standard,Electronics
+50697,42,1021,2025-03-09,1,0.05,49224.66,46763.43,-3360.57,UPI,Website,Standard,Electronics
+50698,74,1016,2026-01-31,1,0.15,2337.23,1986.65,378.48,UPI,Website,Standard,Storage
+50699,5,1056,2025-08-20,3,0.0,2092.68,6278.04,1036.72,Cash on Delivery,Store,Express,Storage
+50700,50,1037,2026-04-09,1,0.0,2643.15,2643.15,538.68,Cash on Delivery,Mobile App,Express,Networking
+50701,62,1026,2026-08-02,1,0.15,5311.67,4514.92,1159.02,Cash on Delivery,Website,Standard,Accessories
+50702,65,1013,2025-11-28,3,0.0,498.28,1494.84,435.31,Cash on Delivery,Website,Standard,Stationery
+50703,83,1049,2025-03-06,1,0.15,14177.38,12050.77,1245.02,Credit Card,Mobile App,Standard,Furniture
+50704,118,1054,2025-10-24,2,0.05,28828.67,54774.47,8943.54,UPI,Mobile App,Standard,Office Equipment
+50705,71,1002,2025-03-18,1,0.2,20805.41,16644.33,2200.87,UPI,Store,Standard,Electronics
+50706,127,1056,2025-10-08,1,0.0,2092.68,2092.68,274.28,Credit Card,Store,Express,Storage
+50707,80,1042,2025-02-08,3,0.2,68597.09,164633.02,24569.84,UPI,Mobile App,Express,Electronics
+50708,40,1006,2026-02-03,2,0.0,2599.47,5198.94,1073.22,Cash on Delivery,Marketplace,Standard,Accessories
+50709,35,1046,2025-07-13,5,0.0,1557.14,7785.7,2445.61,UPI,Website,Standard,Accessories
+50710,49,1007,2025-05-06,4,0.1,3195.83,11504.99,3038.7,UPI,Marketplace,Standard,Accessories
+50711,90,1004,2025-01-11,1,0.05,20837.66,19795.78,2976.08,UPI,Website,Standard,Electronics
+50712,37,1007,2026-07-08,2,0.15,3195.83,5432.91,1146.15,UPI,Website,Standard,Accessories
+50713,138,1028,2026-06-06,1,0.0,6048.55,6048.55,-666.29,UPI,Store,Express,Accessories
+50714,72,1038,2026-05-21,2,0.0,1215.75,2431.5,378.92,Debit Card,Marketplace,Standard,Accessories
+50715,130,1025,2025-02-06,1,0.05,9587.13,9107.77,-859.0,UPI,Website,Express,Electronics
+50716,103,1008,2025-08-06,5,0.2,3937.51,15750.04,2545.32,Debit Card,Mobile App,Standard,Accessories
+50717,51,1012,2026-08-29,1,0.05,390.94,371.39,88.2,Cash on Delivery,Mobile App,Express,Stationery
+50718,35,1052,2025-12-27,2,0.15,206.78,351.53,45.29,Debit Card,Website,Express,Stationery
+50719,112,1058,2025-03-22,1,0.2,3369.95,2695.96,474.62,Debit Card,Website,Standard,Accessories
+50720,50,1046,2025-03-29,5,0.15,1557.14,6617.84,-391.37,Credit Card,Website,Standard,Accessories
+50721,38,1007,2025-06-13,5,0.05,3195.83,15180.19,2892.15,UPI,Mobile App,Express,Accessories
+50722,140,1050,2026-08-29,4,0.1,23722.8,85402.08,8026.62,UPI,Mobile App,Standard,Furniture
+50723,73,1042,2025-04-16,1,0.05,68597.09,65167.24,7835.23,Cash on Delivery,Mobile App,Standard,Electronics
+50724,8,1032,2026-07-17,1,0.1,241.73,217.56,72.02,Debit Card,Website,Standard,Stationery
+50725,75,1009,2026-02-27,3,0.05,20536.09,58527.86,7375.91,UPI,Store,Standard,Furniture
+50726,70,1060,2026-07-29,2,0.05,25984.19,49369.96,4761.27,Credit Card,Mobile App,Express,Furniture
+50727,130,1027,2026-05-30,5,0.05,1401.54,6657.32,1311.44,Net Banking,Marketplace,Standard,Accessories
+50728,107,1003,2025-07-26,3,0.1,19839.12,53565.62,6920.16,Debit Card,Website,Standard,Electronics
+50729,29,1013,2026-05-31,2,0.15,498.28,847.08,168.95,Credit Card,Mobile App,Standard,Stationery
+50730,23,1025,2025-04-16,5,0.2,9587.13,38348.52,4141.75,Cash on Delivery,Marketplace,Express,Electronics
+50731,91,1004,2025-07-01,4,0.05,20837.66,79183.11,12582.27,Debit Card,Website,Express,Electronics
+50732,8,1020,2025-05-12,2,0.0,9187.2,18374.4,1834.52,Debit Card,Website,Standard,Furniture
+50733,48,1029,2025-03-24,1,0.05,15282.9,14518.76,1212.44,UPI,Website,Standard,Furniture
+50734,21,1057,2025-02-26,1,0.0,6035.46,6035.46,1016.29,UPI,Website,Standard,Networking
+50735,4,1006,2025-04-27,2,0.0,2599.47,5198.94,1066.78,Cash on Delivery,Mobile App,Standard,Accessories
+50736,138,1035,2025-03-16,2,0.0,12594.51,25189.02,2566.28,Debit Card,Website,Standard,Storage
+50737,14,1055,2025-08-26,1,0.05,15982.2,15183.09,2708.46,Credit Card,Website,Standard,Storage
+50738,2,1049,2025-02-14,1,0.2,14177.38,11341.9,1485.85,Debit Card,Mobile App,Standard,Furniture
+50739,140,1056,2025-02-08,3,0.05,2092.68,5964.14,1180.12,UPI,Website,Express,Storage
+50740,29,1011,2026-09-09,4,0.05,11263.8,42802.44,7017.93,Net Banking,Website,Standard,Furniture
+50741,123,1049,2025-02-24,1,0.0,14177.38,14177.38,1988.76,UPI,Marketplace,Express,Furniture
+50742,5,1059,2025-02-16,2,0.1,2989.86,5381.75,1348.48,Net Banking,Website,Standard,Bags
+50743,24,1020,2025-01-19,1,0.0,9187.2,9187.2,1633.14,Credit Card,Website,Standard,Furniture
+50744,17,1030,2025-03-24,3,0.15,8425.83,21485.87,2757.66,UPI,Website,Standard,Furniture
+50745,106,1032,2025-11-25,4,0.15,241.73,821.88,204.33,UPI,Website,Express,Stationery
+50746,94,1030,2026-05-31,4,0.2,8425.83,26962.66,3601.25,Net Banking,Mobile App,Express,Furniture
+50747,72,1018,2026-04-03,2,0.0,3998.59,7997.18,1402.65,UPI,Website,Standard,Accessories
+50748,37,1059,2025-12-28,3,0.0,2989.86,8969.58,1744.59,UPI,Website,Express,Bags
+50749,14,1058,2025-02-22,5,0.0,3369.95,16849.75,2889.73,Net Banking,Store,Standard,Accessories
+50750,86,1023,2026-04-28,2,0.15,33930.89,57682.51,8155.29,Credit Card,Store,Standard,Electronics
+50751,35,1049,2025-01-24,2,0.0,14177.38,28354.76,2671.69,Credit Card,Website,Standard,Furniture
+50752,89,1024,2026-01-29,4,0.2,42433.6,135787.52,14984.67,UPI,Website,Standard,Electronics
+50753,104,1048,2025-09-13,2,0.0,4559.9,9119.8,1989.87,Cash on Delivery,Mobile App,Standard,Accessories
+50754,128,1036,2026-07-04,4,0.0,2828.09,11312.36,1974.53,UPI,Marketplace,Express,Storage
+50755,75,1029,2025-07-11,2,0.0,15282.9,30565.8,1936.47,UPI,Marketplace,Standard,Furniture
+50756,1,1008,2026-02-02,4,0.15,3937.51,13387.53,1820.11,UPI,Website,Standard,Accessories
+50757,43,1040,2025-10-02,1,0.05,24809.39,23568.92,1938.22,UPI,Website,Standard,Furniture
+50758,129,1020,2025-11-22,1,0.0,9187.2,9187.2,814.28,UPI,Mobile App,Standard,Furniture
+50759,80,1014,2026-08-08,1,0.1,18785.33,16906.8,2582.75,UPI,Marketplace,Standard,Office Equipment
+50760,93,1012,2026-03-21,2,0.1,390.94,703.69,177.02,UPI,Marketplace,Express,Stationery
+50761,69,1059,2025-09-16,3,0.05,2989.86,8521.1,1998.44,Credit Card,Website,Express,Bags
+50762,25,1007,2025-10-06,1,0.05,3195.83,3036.04,707.77,Cash on Delivery,Mobile App,Standard,Accessories
+50763,135,1048,2026-03-15,1,0.0,4559.9,4559.9,1127.04,UPI,Website,Express,Accessories
+50764,116,1052,2025-08-04,4,0.0,206.78,827.12,225.08,UPI,Marketplace,Standard,Stationery
+50765,150,1002,2025-04-15,4,0.05,20805.41,79060.56,10751.99,Cash on Delivery,Store,Standard,Electronics
+50766,129,1036,2025-10-19,3,0.0,2828.09,8484.27,1896.53,Cash on Delivery,Mobile App,Standard,Storage
+50767,44,1035,2025-02-12,2,0.05,12594.51,23929.57,-1095.14,Debit Card,Website,Standard,Storage
+50768,39,1022,2025-04-16,2,0.0,70964.21,141928.42,19977.32,UPI,Mobile App,Standard,Electronics
+50769,38,1041,2025-09-20,1,0.15,61681.89,52429.61,-6035.8,Credit Card,Mobile App,Express,Electronics
+50770,138,1025,2026-05-12,1,0.0,9587.13,9587.13,603.13,UPI,Marketplace,Standard,Electronics
+50771,84,1027,2026-05-02,5,0.0,1401.54,7007.7,1311.98,UPI,Website,Express,Accessories
+50772,69,1026,2025-06-12,1,0.1,5311.67,4780.5,891.78,Credit Card,Marketplace,Express,Accessories
+50773,146,1049,2025-09-20,3,0.0,14177.38,42532.14,5864.97,Debit Card,Website,Express,Furniture
+50774,91,1038,2025-04-06,3,0.0,1215.75,3647.25,981.63,Credit Card,Website,Standard,Accessories
+50775,137,1023,2026-04-16,1,0.0,33930.89,33930.89,3003.73,Debit Card,Website,Express,Electronics
+50776,148,1056,2025-06-03,1,0.0,2092.68,2092.68,493.63,UPI,Website,Standard,Storage
+50777,12,1049,2026-05-14,3,0.15,14177.38,36152.32,2951.87,UPI,Website,Standard,Furniture
+50778,55,1056,2026-06-09,1,0.1,2092.68,1883.41,253.9,Net Banking,Mobile App,Standard,Storage
+50779,111,1044,2026-03-06,2,0.0,25839.3,51678.6,6371.94,Cash on Delivery,Website,Express,Electronics
+50780,122,1024,2025-07-25,5,0.1,42433.6,190951.2,23085.87,UPI,Website,Standard,Electronics
+50781,23,1047,2026-08-17,3,0.1,2167.3,5851.71,769.09,Debit Card,Website,Standard,Accessories
+50782,48,1020,2026-03-04,4,0.05,9187.2,34911.36,4389.3,UPI,Website,Express,Furniture
+50783,83,1017,2026-02-07,1,0.05,6802.55,6462.42,1262.82,UPI,Marketplace,Standard,Networking
+50784,120,1028,2026-06-18,1,0.2,6048.55,4838.84,1192.18,Net Banking,Store,Express,Accessories
+50785,17,1059,2026-07-04,1,0.05,2989.86,2840.37,488.21,UPI,Website,Standard,Bags
+50786,91,1035,2025-02-18,1,0.05,12594.51,11964.78,2134.91,Credit Card,Marketplace,Standard,Storage
+50787,45,1024,2026-07-04,1,0.05,42433.6,40311.92,5205.47,Credit Card,Marketplace,Standard,Electronics
+50788,33,1028,2026-04-22,5,0.15,6048.55,25706.34,7050.52,UPI,Store,Standard,Accessories
+50789,78,1018,2025-05-09,1,0.1,3998.59,3598.73,270.96,UPI,Website,Standard,Accessories
+50790,63,1040,2025-07-11,3,0.0,24809.39,74428.17,6463.49,UPI,Website,Standard,Furniture
+50791,96,1022,2026-04-14,2,0.05,70964.21,134832.0,17549.53,Cash on Delivery,Mobile App,Standard,Electronics
+50792,48,1034,2025-05-15,2,0.1,25181.87,45327.37,4830.29,Debit Card,Marketplace,Express,Office Equipment
+50793,124,1023,2025-10-09,1,0.0,33930.89,33930.89,4160.34,Credit Card,Marketplace,Express,Electronics
+50794,12,1020,2026-03-06,1,0.2,9187.2,7349.76,786.05,UPI,Mobile App,Standard,Furniture
+50795,130,1059,2026-02-10,2,0.15,2989.86,5082.76,825.99,Debit Card,Website,Standard,Bags
+50796,5,1021,2026-07-21,1,0.15,49224.66,41840.96,5516.47,UPI,Marketplace,Standard,Electronics
+50797,111,1005,2025-03-11,3,0.0,4966.96,14900.88,2204.81,Credit Card,Marketplace,Express,Electronics
+50798,52,1023,2025-07-03,1,0.05,33930.89,32234.35,3972.65,Net Banking,Mobile App,Express,Electronics
+50799,58,1032,2026-09-06,1,0.05,241.73,229.64,49.62,Credit Card,Mobile App,Standard,Stationery
+50800,3,1006,2025-12-21,3,0.1,2599.47,7018.57,1352.52,UPI,Mobile App,Standard,Accessories
+50801,106,1019,2025-06-04,2,0.15,3726.15,6334.46,1201.58,UPI,Mobile App,Express,Bags
+50802,25,1010,2025-06-30,1,0.0,14618.21,14618.21,992.35,UPI,Mobile App,Express,Furniture
+50803,99,1031,2025-07-31,5,0.05,11800.24,56051.14,6791.69,Credit Card,Marketplace,Standard,Furniture
+50804,109,1044,2025-12-12,1,0.1,25839.3,23255.37,2723.24,Cash on Delivery,Store,Express,Electronics
+50805,127,1059,2025-06-27,5,0.15,2989.86,12706.9,3084.37,UPI,Mobile App,Standard,Bags
+50806,107,1024,2026-01-23,3,0.15,42433.6,108205.68,15895.86,Debit Card,Website,Standard,Electronics
+50807,46,1052,2025-10-05,5,0.0,206.78,1033.9,312.01,Debit Card,Website,Express,Stationery
+50808,111,1013,2026-01-16,5,0.2,498.28,1993.12,371.95,UPI,Website,Standard,Stationery
+50809,124,1047,2025-04-07,1,0.0,2167.3,2167.3,398.04,UPI,Website,Standard,Accessories
+50810,48,1034,2026-01-24,4,0.05,25181.87,95691.11,9734.87,UPI,Website,Express,Office Equipment
+50811,19,1046,2026-07-31,1,0.05,1557.14,1479.28,249.96,Debit Card,Mobile App,Express,Accessories
+50812,134,1046,2025-03-26,2,0.0,1557.14,3114.28,794.43,Credit Card,Website,Standard,Accessories
+50813,23,1032,2025-07-23,1,0.05,241.73,229.64,73.15,Net Banking,Website,Standard,Stationery
+50814,90,1016,2026-03-09,2,0.05,2337.23,4440.74,597.43,Cash on Delivery,Marketplace,Express,Storage
+50815,36,1032,2026-01-20,4,0.05,241.73,918.57,198.23,Net Banking,Website,Standard,Stationery
+50816,19,1050,2026-02-25,2,0.0,23722.8,47445.6,5131.53,Cash on Delivery,Mobile App,Same Day,Furniture
+50817,117,1059,2025-12-15,1,0.0,2989.86,2989.86,641.26,Net Banking,Store,Express,Bags
+50818,22,1056,2026-03-02,1,0.0,2092.68,2092.68,230.85,Cash on Delivery,Mobile App,Standard,Storage
+50819,101,1011,2026-01-15,4,0.1,11263.8,40549.68,2887.44,Net Banking,Website,Standard,Furniture
+50820,104,1036,2025-02-16,2,0.0,2828.09,5656.18,1127.78,Net Banking,Website,Express,Storage
+50821,10,1007,2026-04-14,2,0.05,3195.83,6072.08,693.69,Net Banking,Mobile App,Same Day,Accessories
+50822,26,1041,2025-10-06,2,0.1,61681.89,111027.4,13014.81,Cash on Delivery,Mobile App,Standard,Electronics
+50823,120,1060,2025-02-02,1,0.15,25984.19,22086.56,2516.16,Credit Card,Website,Standard,Furniture
+50824,77,1004,2025-09-12,2,0.0,20837.66,41675.32,5913.23,Debit Card,Mobile App,Express,Electronics
+50825,19,1040,2025-09-29,3,0.2,24809.39,59542.54,6345.47,Credit Card,Mobile App,Standard,Furniture
+50826,149,1057,2025-02-24,5,0.0,6035.46,30177.3,4717.34,Cash on Delivery,Website,Standard,Networking
+50827,40,1051,2026-09-13,2,0.0,10450.86,20901.72,2726.39,Credit Card,Mobile App,Express,Furniture
+50828,1,1024,2025-05-19,5,0.0,42433.6,212168.0,29312.47,Net Banking,Website,Express,Electronics
+50829,139,1007,2025-07-25,4,0.0,3195.83,12783.32,2192.74,Net Banking,Website,Express,Accessories
+50830,3,1056,2025-10-02,1,0.15,2092.68,1778.78,322.84,Cash on Delivery,Marketplace,Express,Storage
+50831,84,1056,2026-06-03,2,0.0,2092.68,4185.36,816.87,UPI,Website,Standard,Storage
+50832,149,1035,2026-04-08,2,0.1,12594.51,22670.12,5623.15,Debit Card,Mobile App,Express,Storage
+50833,87,1059,2026-04-26,1,0.05,2989.86,2840.37,633.03,Net Banking,Mobile App,Standard,Bags
+50834,88,1001,2025-05-28,1,0.0,58323.17,58323.17,9607.94,Cash on Delivery,Website,Standard,Electronics
+50835,59,1037,2026-06-11,4,0.05,2643.15,10043.97,1478.1,Cash on Delivery,Store,Express,Networking
+50836,20,1003,2026-06-01,1,0.0,19839.12,19839.12,2281.66,Debit Card,Website,Express,Electronics
+50837,86,1057,2025-10-16,1,0.05,6035.46,5733.69,-475.44,Debit Card,Website,Express,Networking
+50838,135,1041,2025-12-07,1,0.05,61681.89,58597.8,7377.1,UPI,Store,Standard,Electronics
+50839,14,1055,2025-01-24,1,0.05,15982.2,15183.09,2126.88,Cash on Delivery,Marketplace,Same Day,Storage
+50840,133,1034,2026-04-19,1,0.0,25181.87,25181.87,4507.32,UPI,Marketplace,Standard,Office Equipment
+50841,63,1005,2026-08-22,1,0.15,4966.96,4221.92,655.51,Debit Card,Website,Express,Electronics
+50842,81,1002,2025-10-22,4,0.05,20805.41,79060.56,9586.69,Net Banking,Website,Express,Electronics
+50843,25,1021,2025-12-03,4,0.0,49224.66,196898.64,29210.49,Credit Card,Mobile App,Standard,Electronics
+50844,94,1045,2025-11-07,2,0.05,2649.49,5034.03,686.52,UPI,Website,Express,Electronics
+50845,28,1010,2025-02-21,2,0.0,14618.21,29236.42,3725.3,UPI,Website,Express,Furniture
+50846,41,1052,2026-01-22,5,0.2,206.78,827.12,-39.24,Cash on Delivery,Marketplace,Express,Stationery
+50847,109,1015,2026-03-26,4,0.15,8390.1,28526.34,4970.2,Credit Card,Website,Express,Storage
+50848,8,1030,2026-08-02,1,0.0,8425.83,8425.83,915.01,UPI,Website,Express,Furniture
+50849,68,1013,2026-08-03,5,0.1,498.28,2242.26,611.98,Debit Card,Website,Standard,Stationery
+50850,90,1028,2025-11-03,1,0.1,6048.55,5443.7,938.21,UPI,Mobile App,Standard,Accessories
+50851,20,1028,2026-08-21,1,0.05,6048.55,5746.12,517.17,Cash on Delivery,Mobile App,Same Day,Accessories
+50852,45,1001,2025-11-26,2,0.0,58323.17,116646.34,11555.38,UPI,Marketplace,Same Day,Electronics
+50853,52,1035,2026-02-04,3,0.2,12594.51,30226.82,5367.75,UPI,Website,Same Day,Storage
+50854,100,1048,2026-01-11,1,0.2,4559.9,3647.92,739.84,UPI,Website,Standard,Accessories
+50855,147,1057,2026-09-15,1,0.2,6035.46,4828.37,1124.88,Credit Card,Mobile App,Standard,Networking
+50856,126,1020,2026-04-05,1,0.2,9187.2,7349.76,912.12,Credit Card,Website,Express,Furniture
+50857,29,1053,2025-03-16,2,0.2,453.24,725.18,-65.64,Net Banking,Mobile App,Express,Stationery
+50858,3,1053,2025-02-14,5,0.1,453.24,2039.58,486.01,Credit Card,Store,Standard,Stationery
+50859,8,1060,2025-09-13,1,0.0,25984.19,25984.19,3552.59,UPI,Mobile App,Standard,Furniture
+50860,90,1023,2025-11-18,1,0.05,33930.89,32234.35,3646.44,UPI,Mobile App,Standard,Electronics
+50861,24,1052,2026-02-21,1,0.0,206.78,206.78,-5.33,UPI,Store,Standard,Stationery
+50862,35,1034,2025-10-28,1,0.0,25181.87,25181.87,2680.63,Cash on Delivery,Website,Standard,Office Equipment
+50863,128,1004,2025-11-17,1,0.15,20837.66,17712.01,3021.33,UPI,Store,Standard,Electronics
+50864,132,1017,2026-07-29,2,0.15,6802.55,11564.34,2135.7,Cash on Delivery,Mobile App,Standard,Networking
+50865,126,1041,2025-07-28,2,0.05,61681.89,117195.59,12863.95,UPI,Mobile App,Express,Electronics
+50866,39,1010,2025-11-04,2,0.1,14618.21,26312.78,2821.52,UPI,Store,Express,Furniture
+50867,93,1027,2025-12-14,4,0.0,1401.54,5606.16,1246.95,UPI,Mobile App,Same Day,Accessories
+50868,92,1047,2025-10-19,2,0.0,2167.3,4334.6,819.1,UPI,Mobile App,Standard,Accessories
+50869,28,1009,2026-08-27,1,0.15,20536.09,17455.68,1694.35,Net Banking,Website,Standard,Furniture
+50870,84,1030,2026-08-23,2,0.05,8425.83,16009.08,1507.52,Credit Card,Mobile App,Standard,Furniture
+50871,79,1013,2025-11-16,1,0.05,498.28,473.37,122.08,UPI,Mobile App,Standard,Stationery
+50872,60,1033,2025-10-08,4,0.05,477.24,1813.51,400.96,Debit Card,Website,Standard,Stationery
+50873,113,1015,2026-01-02,1,0.0,8390.1,8390.1,1359.46,Debit Card,Marketplace,Express,Storage
+50874,102,1058,2025-04-23,1,0.15,3369.95,2864.46,404.5,Cash on Delivery,Mobile App,Express,Accessories
+50875,80,1005,2025-09-23,3,0.15,4966.96,12665.75,1674.67,Cash on Delivery,Mobile App,Express,Electronics
+50876,109,1058,2025-05-16,2,0.1,3369.95,6065.91,1164.81,Debit Card,Website,Standard,Accessories
+50877,115,1048,2025-03-31,1,0.0,4559.9,4559.9,847.45,Net Banking,Mobile App,Standard,Accessories
+50878,86,1052,2025-03-01,3,0.1,206.78,558.31,139.85,Net Banking,Website,Standard,Stationery
+50879,41,1052,2026-01-01,1,0.2,206.78,165.42,46.23,Credit Card,Website,Standard,Stationery
+50880,114,1012,2025-01-01,4,0.1,390.94,1407.38,389.9,Debit Card,Mobile App,Express,Stationery
+50881,108,1056,2026-02-07,4,0.05,2092.68,7952.18,1605.45,UPI,Website,Standard,Storage
+50882,148,1036,2025-09-27,1,0.0,2828.09,2828.09,482.1,Net Banking,Website,Express,Storage
+50883,23,1058,2025-08-17,2,0.05,3369.95,6402.9,-623.39,Cash on Delivery,Mobile App,Standard,Accessories
+50884,63,1053,2026-04-25,2,0.0,453.24,906.48,167.59,UPI,Website,Same Day,Stationery
+50885,139,1035,2025-12-02,3,0.05,12594.51,35894.35,5617.86,Net Banking,Store,Same Day,Storage
+50886,78,1023,2026-04-02,1,0.0,33930.89,33930.89,4430.08,Cash on Delivery,Store,Standard,Electronics
+50887,142,1008,2026-03-19,1,0.0,3937.51,3937.51,651.28,UPI,Mobile App,Express,Accessories
+50888,2,1007,2025-01-21,1,0.15,3195.83,2716.46,554.77,Credit Card,Store,Standard,Accessories
+50889,6,1024,2025-05-15,3,0.05,42433.6,120935.76,12382.36,Cash on Delivery,Marketplace,Express,Electronics
+50890,120,1049,2025-12-22,1,0.05,14177.38,13468.51,940.16,Cash on Delivery,Website,Express,Furniture
+50891,54,1031,2026-08-31,2,0.05,11800.24,22420.46,2910.84,UPI,Marketplace,Express,Furniture
+50892,79,1029,2025-04-07,3,0.05,15282.9,43556.26,4291.13,UPI,Website,Express,Furniture
+50893,65,1015,2025-03-07,5,0.15,8390.1,35657.92,5236.49,Debit Card,Marketplace,Standard,Storage
+50894,62,1034,2026-08-10,1,0.0,25181.87,25181.87,2677.07,UPI,Mobile App,Express,Office Equipment
+50895,141,1039,2026-08-26,1,0.15,2825.6,2401.76,498.8,UPI,Website,Express,Bags
+50896,15,1059,2025-04-15,3,0.0,2989.86,8969.58,2219.71,UPI,Website,Standard,Bags
+50897,116,1044,2025-09-08,1,0.0,25839.3,25839.3,3061.24,UPI,Store,Standard,Electronics
+50898,134,1037,2026-01-26,1,0.05,2643.15,2510.99,406.62,Credit Card,Website,Express,Networking
+50899,99,1055,2025-05-02,5,0.2,15982.2,63928.8,14220.11,Debit Card,Website,Express,Storage
+50900,60,1026,2025-07-23,4,0.0,5311.67,21246.68,2556.83,Debit Card,Website,Standard,Accessories
+50901,25,1057,2025-09-04,3,0.05,6035.46,17201.06,4189.51,Net Banking,Mobile App,Express,Networking
+50902,103,1023,2026-02-04,4,0.0,33930.89,135723.56,27131.31,Credit Card,Marketplace,Express,Electronics
+50903,71,1008,2025-07-11,1,0.0,3937.51,3937.51,318.63,UPI,Marketplace,Standard,Accessories
+50904,23,1026,2025-09-14,1,0.15,5311.67,4514.92,883.61,UPI,Mobile App,Standard,Accessories
+50905,54,1008,2025-06-30,1,0.1,3937.51,3543.76,596.65,UPI,Website,Standard,Accessories
+50906,145,1008,2026-04-19,1,0.05,3937.51,3740.63,704.55,UPI,Website,Express,Accessories
+50907,40,1053,2025-04-06,5,0.05,453.24,2152.89,469.13,UPI,Mobile App,Standard,Stationery
+50908,27,1048,2025-05-24,1,0.05,4559.9,4331.9,1021.1,UPI,Marketplace,Standard,Accessories
+50909,103,1014,2025-06-05,2,0.0,18785.33,37570.66,5129.63,UPI,Marketplace,Express,Office Equipment
+50910,30,1051,2026-07-19,4,0.05,10450.86,39713.27,3493.02,Debit Card,Mobile App,Express,Furniture
+50911,138,1005,2026-08-12,3,0.0,4966.96,14900.88,1863.74,Debit Card,Mobile App,Express,Electronics
+50912,129,1018,2025-11-08,1,0.15,3998.59,3398.8,756.74,Cash on Delivery,Mobile App,Standard,Accessories
+50913,148,1043,2025-04-08,2,0.05,16033.91,30464.43,2929.02,Net Banking,Mobile App,Express,Electronics
+50914,137,1019,2026-04-17,2,0.0,3726.15,7452.3,903.13,Credit Card,Mobile App,Standard,Bags
+50915,37,1044,2025-11-03,4,0.05,25839.3,98189.34,18360.66,UPI,Marketplace,Standard,Electronics
+50916,32,1053,2026-06-14,2,0.15,453.24,770.51,158.79,Credit Card,Mobile App,Express,Stationery
+50917,52,1004,2025-08-13,1,0.0,20837.66,20837.66,2627.04,UPI,Store,Express,Electronics
+50918,71,1002,2026-09-15,4,0.2,20805.41,66577.31,-7369.81,Credit Card,Mobile App,Standard,Electronics
+50919,132,1057,2026-05-18,5,0.05,6035.46,28668.44,5461.29,Credit Card,Website,Express,Networking
+50920,111,1032,2025-05-20,2,0.1,241.73,435.11,145.15,Credit Card,Website,Standard,Stationery
+50921,97,1031,2026-03-29,1,0.2,11800.24,9440.19,1170.91,UPI,Mobile App,Standard,Furniture
+50922,132,1028,2025-06-28,2,0.05,6048.55,11492.24,1530.67,Debit Card,Mobile App,Standard,Accessories
+50923,97,1027,2025-08-06,5,0.0,1401.54,7007.7,974.76,Net Banking,Mobile App,Standard,Accessories
+50924,57,1042,2025-06-06,5,0.1,68597.09,308686.9,-23687.37,Net Banking,Marketplace,Express,Electronics
+50925,62,1035,2026-03-02,2,0.0,12594.51,25189.02,4266.46,Debit Card,Website,Express,Storage
+50926,78,1010,2025-06-13,1,0.05,14618.21,13887.3,-455.42,Credit Card,Mobile App,Express,Furniture
+50927,14,1038,2026-02-02,2,0.2,1215.75,1945.2,459.17,UPI,Marketplace,Standard,Accessories
+50928,112,1041,2025-12-29,4,0.05,61681.89,234391.18,23188.61,Debit Card,Mobile App,Standard,Electronics
+50929,98,1007,2026-04-13,5,0.1,3195.83,14381.24,3821.17,Credit Card,Mobile App,Standard,Accessories
+50930,110,1023,2026-09-11,1,0.05,33930.89,32234.35,5868.91,UPI,Website,Express,Electronics
+50931,81,1048,2025-01-06,1,0.0,4559.9,4559.9,862.17,UPI,Mobile App,Standard,Accessories
+50932,118,1038,2026-09-09,2,0.0,1215.75,2431.5,533.26,Cash on Delivery,Marketplace,Standard,Accessories
+50933,143,1009,2025-03-10,1,0.05,20536.09,19509.29,1564.39,Debit Card,Store,Express,Furniture
+50934,86,1003,2025-11-25,5,0.0,19839.12,99195.6,14664.79,Credit Card,Mobile App,Express,Electronics
+50935,67,1035,2025-08-01,1,0.05,12594.51,11964.78,1917.61,Debit Card,Website,Standard,Storage
+50936,16,1028,2026-02-03,3,0.05,6048.55,17238.37,2623.02,Credit Card,Marketplace,Standard,Accessories
+50937,117,1058,2026-03-26,5,0.15,3369.95,14322.29,2682.12,Credit Card,Marketplace,Express,Accessories
+50938,136,1032,2026-06-20,3,0.0,241.73,725.19,156.21,UPI,Website,Standard,Stationery
+50939,105,1056,2025-09-08,4,0.15,2092.68,7115.11,1189.1,Credit Card,Marketplace,Standard,Storage
+50940,130,1013,2026-08-05,1,0.05,498.28,473.37,137.35,Debit Card,Website,Express,Stationery
+50941,130,1027,2025-07-20,4,0.1,1401.54,5045.54,834.77,UPI,Website,Standard,Accessories
+50942,120,1009,2025-05-08,2,0.05,20536.09,39018.57,5930.34,Net Banking,Website,Standard,Furniture
+50943,76,1035,2025-08-25,1,0.0,12594.51,12594.51,1606.15,UPI,Website,Standard,Storage
+50944,15,1012,2025-11-26,1,0.2,390.94,312.75,101.74,Debit Card,Marketplace,Standard,Stationery
+50945,1,1030,2026-02-21,1,0.0,8425.83,8425.83,719.57,Debit Card,Mobile App,Standard,Furniture
+50946,31,1021,2026-06-03,2,0.0,49224.66,98449.32,12795.56,Debit Card,Website,Standard,Electronics
+50947,65,1012,2025-05-21,1,0.15,390.94,332.3,71.15,Debit Card,Mobile App,Standard,Stationery
+50948,112,1006,2025-07-08,2,0.05,2599.47,4938.99,913.1,Cash on Delivery,Mobile App,Standard,Accessories
+50949,69,1031,2026-08-08,2,0.2,11800.24,18880.38,2442.99,Credit Card,Website,Express,Furniture
+50950,4,1057,2025-10-02,1,0.05,6035.46,5733.69,1296.35,Net Banking,Website,Same Day,Networking
+50951,32,1012,2025-05-31,3,0.0,390.94,1172.82,355.2,Debit Card,Mobile App,Standard,Stationery
+50952,147,1025,2026-09-07,1,0.0,9587.13,9587.13,-955.73,UPI,Website,Standard,Electronics
+50953,149,1014,2025-10-07,4,0.05,18785.33,71384.25,10398.9,UPI,Marketplace,Express,Office Equipment
+50954,57,1049,2026-09-06,1,0.0,14177.38,14177.38,1291.19,Credit Card,Website,Same Day,Furniture
+50955,121,1025,2026-07-27,4,0.2,9587.13,30678.82,3118.25,UPI,Marketplace,Express,Electronics
+50956,108,1059,2026-07-19,1,0.0,2989.86,2989.86,424.81,Credit Card,Marketplace,Standard,Bags
+50957,140,1015,2025-12-29,1,0.2,8390.1,6712.08,1091.87,Credit Card,Website,Standard,Storage
+50958,134,1005,2026-05-13,1,0.0,4966.96,4966.96,681.16,Debit Card,Website,Standard,Electronics
+50959,95,1035,2026-08-22,4,0.0,12594.51,50378.04,5254.03,UPI,Store,Express,Storage
+50960,60,1040,2025-06-17,4,0.0,24809.39,99237.56,10804.81,Net Banking,Mobile App,Standard,Furniture
+50961,94,1060,2025-01-24,1,0.0,25984.19,25984.19,3811.56,Credit Card,Mobile App,Standard,Furniture
+50962,48,1053,2025-07-19,2,0.05,453.24,861.16,257.69,Debit Card,Website,Standard,Stationery
+50963,53,1054,2026-02-01,2,0.0,28828.67,57657.34,7032.83,UPI,Website,Standard,Office Equipment
+50964,92,1039,2025-12-07,1,0.05,2825.6,2684.32,353.29,Credit Card,Mobile App,Standard,Bags
+50965,86,1022,2025-02-20,2,0.05,70964.21,134832.0,19301.36,UPI,Marketplace,Standard,Electronics
+50966,88,1026,2025-12-16,3,0.0,5311.67,15935.01,1562.16,Debit Card,Website,Express,Accessories
+50967,58,1009,2025-04-19,5,0.0,20536.09,102680.45,14053.43,UPI,Marketplace,Express,Furniture
+50968,62,1026,2025-11-11,4,0.0,5311.67,21246.68,4049.66,Cash on Delivery,Mobile App,Express,Accessories
+50969,2,1022,2025-12-25,1,0.0,70964.21,70964.21,12942.11,UPI,Website,Standard,Electronics
+50970,91,1003,2026-02-01,1,0.0,19839.12,19839.12,1599.21,Credit Card,Website,Express,Electronics
+50971,87,1013,2025-09-15,2,0.0,498.28,996.56,287.49,UPI,Website,Express,Stationery
+50972,141,1033,2025-09-12,1,0.05,477.24,453.38,106.41,Debit Card,Mobile App,Standard,Stationery
+50973,76,1023,2026-02-27,2,0.0,33930.89,67861.78,8179.51,Credit Card,Mobile App,Standard,Electronics
+50974,71,1060,2026-04-12,1,0.0,25984.19,25984.19,1996.88,Credit Card,Mobile App,Express,Furniture
+50975,11,1029,2026-05-19,1,0.05,15282.9,14518.76,-1158.23,UPI,Website,Standard,Furniture
+50976,30,1058,2025-07-27,1,0.05,3369.95,3201.45,735.53,UPI,Marketplace,Standard,Accessories
+50977,51,1040,2025-09-22,1,0.0,24809.39,24809.39,3800.8,UPI,Mobile App,Standard,Furniture
+50978,57,1003,2025-07-26,4,0.0,19839.12,79356.48,12604.21,Cash on Delivery,Mobile App,Standard,Electronics
+50979,55,1013,2025-11-25,1,0.05,498.28,473.37,98.77,Credit Card,Mobile App,Standard,Stationery
+50980,60,1043,2025-03-21,5,0.0,16033.91,80169.55,8120.34,UPI,Website,Standard,Electronics
+50981,116,1033,2025-09-25,1,0.05,477.24,453.38,76.05,Cash on Delivery,Marketplace,Standard,Stationery
+50982,20,1019,2025-04-28,1,0.2,3726.15,2980.92,749.94,UPI,Mobile App,Express,Bags
+50983,50,1032,2025-11-28,1,0.05,241.73,229.64,45.68,Credit Card,Website,Standard,Stationery
+50984,25,1055,2026-06-14,3,0.0,15982.2,47946.6,11440.88,Debit Card,Website,Standard,Storage
+50985,47,1024,2026-09-06,1,0.1,42433.6,38190.24,5538.24,Cash on Delivery,Mobile App,Standard,Electronics
+50986,103,1003,2025-10-06,1,0.0,19839.12,19839.12,2766.27,Debit Card,Mobile App,Express,Electronics
+50987,8,1019,2025-02-05,4,0.0,3726.15,14904.6,2640.69,Credit Card,Website,Same Day,Bags
+50988,51,1057,2025-05-22,2,0.0,6035.46,12070.92,2350.32,Cash on Delivery,Marketplace,Standard,Networking
+50989,4,1046,2025-03-07,1,0.2,1557.14,1245.71,248.29,UPI,Marketplace,Standard,Accessories
+50990,144,1051,2026-04-19,4,0.2,10450.86,33442.75,3379.89,Cash on Delivery,Website,Standard,Furniture
+50991,110,1055,2026-09-06,4,0.05,15982.2,60732.36,12605.72,Net Banking,Marketplace,Standard,Storage
+50992,37,1008,2025-12-12,1,0.05,3937.51,3740.63,724.43,Cash on Delivery,Mobile App,Express,Accessories
+50993,30,1017,2025-04-21,2,0.1,6802.55,12244.59,1715.98,UPI,Store,Standard,Networking
+50994,15,1004,2025-01-14,1,0.05,20837.66,19795.78,2913.05,UPI,Website,Same Day,Electronics
+50995,71,1001,2026-09-01,1,0.05,58323.17,55407.01,7101.52,Debit Card,Website,Standard,Electronics
+50996,114,1051,2025-07-17,2,0.2,10450.86,16721.38,2037.19,Credit Card,Mobile App,Standard,Furniture
+50997,88,1057,2025-03-11,1,0.1,6035.46,5431.91,831.22,Credit Card,Website,Express,Networking
+50998,133,1010,2025-04-21,5,0.0,14618.21,73091.05,5901.32,Cash on Delivery,Marketplace,Standard,Furniture
+50999,52,1044,2025-06-09,5,0.05,25839.3,122736.67,22046.34,Debit Card,Mobile App,Express,Electronics
+51000,42,1033,2026-02-13,1,0.2,477.24,381.79,122.81,UPI,Website,Standard,Stationery
